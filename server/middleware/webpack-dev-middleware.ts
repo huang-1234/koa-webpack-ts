@@ -8,14 +8,14 @@ const devMiddleware = (compiler: webpack.ICompiler, opts: WebpackDevMiddleware.O
   return async (ctx: Koa.Context, next: NextHandleFunction) => {
     await middleware(ctx.req, {
       // @ts-ignore
-      end: (content:string) => {
+      end: (content: string) => {
         ctx.body = content
       },
       setHeader: (name, value: any) => {
-        ctx.set(name, value)
+        console.log('header', name, value)
       }
     }, next)
   }
 }
 
-export default devMiddleware 
+export default devMiddleware

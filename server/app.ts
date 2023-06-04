@@ -4,6 +4,8 @@ import * as Router from 'koa-router'
 
 const app: Koa = new Koa()
 
+type Context = Koa.Context;
+
 const env = process.env.NODE_ENV || 'development'
 const isDev = env === 'development'
 
@@ -24,15 +26,21 @@ require('koa-ejs')(app, {
 const router: Router = new Router()
 
 router
-.get('/', async (ctx: Koa.Context) => {
-  await ctx.render('index', {
-    title: '首页'
+  .get('/', async (ctx: Koa.Context) => {
+    await ctx.render('index', {
+      title: '首页'
+    })
   })
-})
-.get('/blog', async (ctx: Koa.Context) => {
-  await ctx.render('blog', {
-    title: '博客'
+  .get('/blog', async (ctx: Koa.Context) => {
+    await ctx.render('blog', {
+      title: '博客'
+    })
   })
+
+router.get('/user', async (ctx: Context) => {
+  ctx.body = {
+    ctx
+  }
 })
 
 app

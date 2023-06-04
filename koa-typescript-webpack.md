@@ -367,10 +367,10 @@ app.use(require('koa-static')(path.resolve(__dirname, '../dist')))
 不仅可以有效杜绝由变量类型引起的误用问题，而且通过`@types`和如`vscode`等编辑器的配合，可以更方便快速的让开发者了解一些库/框架的API。
 
 ### 完整webpack配置
-[webpack.config.js](https://github.com/S-mohan/koa-webpack-typescript/blob/master/scripts/webpack.config.js)
+[webpack.config.js](https://github.com/huang-1234/koa-webpack-ts/blob/master/scripts/webpack.config.js)
 
 ### 项目地址
-[GitHub地址](https://github.com/S-mohan/koa-webpack-typescript)
+[GitHub地址](https://github.com/huang-1234/koa-webpack-ts)
 
 ### 相关阅读
 - [看懂前端脚手架你需要这篇WEBPACK] (https://smohan.net/blog/bhcly1)
