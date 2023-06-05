@@ -1,0 +1,5728 @@
+{
+  "code": 0,
+  "st": 0,
+  "msg": "",
+  "data": {
+    "promotions": [
+      {
+        "promotion_id": "3559480075755877722",
+        "product_id": "3557496316252842999",
+        "title": "手工贴画儿童幼儿玩具手工制作DIY益智贴卡通贴画专注力多款图案",
+        "cover": {
+          "uri": "ecom-shop-material/vsAiAEqO_m_b8cfeb144b8ba43fe710c8d866471c70_sx_166029_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/vsAiAEqO_m_b8cfeb144b8ba43fe710c8d866471c70_sx_166029_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3557496316252842999",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 690,
+        "market_price": 690,
+        "cos_fee": 207,
+        "cos_ratio": 3000,
+        "month_sales": 48360,
+        "activity": {
+          "activity_icon": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688117953&x-signature=E1%2BncN5AmZaTfdPyCnQcdZO%2FBL0%3D",
+          "activity_type": 6,
+          "width": 24,
+          "height": 16
+        },
+        "shop_id": 50096190,
+        "shop_name": "畅想DIY小店",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 48360,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "leaderboard_info": {
+          "category_id": 1084310,
+          "category_name": "手工制作玩具",
+          "tab_id": 2,
+          "rank": 2,
+          "type": 2,
+          "rank_text": "手工制作玩具爆款榜·第2名",
+          "billboard_type": 0
+        },
+        "pic_product_tag": [
+          {
+            "type": "ActivityInfo",
+            "pic": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688117953&x-signature=E1%2BncN5AmZaTfdPyCnQcdZO%2FBL0%3D",
+            "height": 16,
+            "width": 24
+          },
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "2",
+            "text": {
+              "text": "直播引流品"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3559463308253884748",
+        "product_id": "3559024298180143048",
+        "title": "专注力训练DIY手工创意材料包装饰随心贴儿童益智玩具粘贴马赛克",
+        "cover": {
+          "uri": "ecom-shop-material/sptJbmPW_m_e5a62bfbd0371647a4da2ceeec964d3d_sx_263890_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/sptJbmPW_m_e5a62bfbd0371647a4da2ceeec964d3d_sx_263890_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3559024298180143048",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 590,
+        "market_price": 590,
+        "cos_fee": 236,
+        "cos_ratio": 4000,
+        "month_sales": 36578,
+        "shop_id": 30474216,
+        "shop_name": "平步青云小铺",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 36578,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "leaderboard_info": {
+          "category_id": 459210,
+          "category_name": "创意玩具",
+          "tab_id": 2,
+          "rank": 1,
+          "type": 2,
+          "rank_text": "创意玩具爆款榜·第1名",
+          "billboard_type": 0
+        },
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          },
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3614197007696137155",
+        "product_id": "3613502827114195945",
+        "title": "【时光学】益智戳戳画 儿童梦幻公主换装乐卡通益智DIY创意手工",
+        "cover": {
+          "uri": "ecom-shop-material/VZyAwOeS_m_f545bf82c7b0eac9e1414a2ea77db92e_sx_335681_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/VZyAwOeS_m_f545bf82c7b0eac9e1414a2ea77db92e_sx_335681_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3613502827114195945",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 3990,
+        "market_price": 3990,
+        "cos_fee": 1397,
+        "cos_ratio": 3500,
+        "month_sales": 151353,
+        "shop_id": 24486881,
+        "shop_name": "时光学旗舰店",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 151353,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "leaderboard_info": {
+          "category_id": 50445360,
+          "category_name": "文具套装",
+          "tab_id": 2,
+          "rank": 1,
+          "type": 2,
+          "rank_text": "文具套装品牌榜·第1名",
+          "billboard_type": 1
+        },
+        "pic_product_tag": [
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          },
+          {
+            "type": "flagship_store",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/brand_shop.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "Authoried_books",
+            "text": {
+              "text": "正品溯源"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3613694052739983530",
+        "product_id": "3611654986154523972",
+        "title": "老师推荐【全套19.9】儿童益智手工diy制作材料包3d立体贴画玩具",
+        "cover": {
+          "uri": "ecom-shop-material/caufSMza_m_59b67de058683d6f9fecfd29a952c44a_sx_306906_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/caufSMza_m_59b67de058683d6f9fecfd29a952c44a_sx_306906_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3611654986154523972",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1990,
+        "market_price": 1990,
+        "cos_fee": 597,
+        "cos_ratio": 3000,
+        "month_sales": 48803,
+        "shop_id": 14742070,
+        "shop_name": "墨夫子书苑",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 48803,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "leaderboard_info": {
+          "category_id": 1084310,
+          "category_name": "手工制作玩具",
+          "tab_id": 2,
+          "rank": 1,
+          "type": 2,
+          "rank_text": "手工制作玩具爆款榜·第1名",
+          "billboard_type": 0
+        },
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3611854660182403890",
+        "product_id": "3611854065362992778",
+        "title": "【9.9元150颗钻起】儿童手工钻石画diy带框20*20库洛米玉桂狗包邮",
+        "cover": {
+          "uri": "ecom-shop-material/QBXIGzLw_m_f5bea14d22e154bf73c000c7649cc3ea_sx_236754_www991-991",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/QBXIGzLw_m_f5bea14d22e154bf73c000c7649cc3ea_sx_236754_www991-991"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3611854065362992778",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 990,
+        "market_price": 990,
+        "cos_fee": 198,
+        "cos_ratio": 2000,
+        "month_sales": 43588,
+        "shop_id": 28329882,
+        "shop_name": "那家百货店",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 43588,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "leaderboard_info": {
+          "category_id": 2,
+          "category_name": "玩具乐器",
+          "tab_id": 3,
+          "rank": 12,
+          "type": 1,
+          "rank_text": "入选玩具乐器本月爆款榜",
+          "billboard_type": 0
+        },
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3601020684433752093",
+        "product_id": "3598825144530899874",
+        "title": "六一儿童节奶油胶咕卡贴纸套装礼物diy玩具流沙卡砖手账贴纸贴画",
+        "cover": {
+          "uri": "ecom-shop-material/dmeAaeBr_m_35ff15ac51a44009f3182cae4789fd8e_sx_801204_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/dmeAaeBr_m_35ff15ac51a44009f3182cae4789fd8e_sx_801204_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3598825144530899874",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 990,
+        "market_price": 990,
+        "cos_fee": 248,
+        "cos_ratio": 2500,
+        "month_sales": 4932,
+        "shop_id": 76984198,
+        "shop_name": "无二文创",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 4932,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "leaderboard_info": {
+          "category_id": 20071560,
+          "category_name": "手账贴纸",
+          "tab_id": 2,
+          "rank": 2,
+          "type": 2,
+          "rank_text": "手账贴纸爆款榜·第2名",
+          "billboard_type": 0
+        },
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          },
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3613715623416340907",
+        "product_id": "3613715509599729823",
+        "title": "奶油胶咕卡套装贴纸女孩儿童diy手工手账本贴画全套玩具豪华礼包",
+        "cover": {
+          "uri": "ecom-shop-material/cUlyuNhu_m_8280cb154fa69b6c83b49f64cc1a34a5_sx_811909_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/cUlyuNhu_m_8280cb154fa69b6c83b49f64cc1a34a5_sx_811909_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3613715509599729823",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1290,
+        "market_price": 2290,
+        "cos_fee": 206,
+        "cos_ratio": 1600,
+        "month_sales": 3625,
+        "shop_id": 87633000,
+        "shop_name": "状元郎文化用品店",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 3625,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "leaderboard_info": {
+          "category_id": 20071560,
+          "category_name": "手账贴纸",
+          "tab_id": 2,
+          "rank": 5,
+          "type": 2,
+          "rank_text": "手账贴纸爆款榜·第5名",
+          "billboard_type": 0
+        },
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3606292831951571832",
+        "product_id": "3606291439534876689",
+        "title": "【时光学】立体手工贴画eva卡通贴自粘材料包3-6岁儿童3d立体贴纸",
+        "cover": {
+          "uri": "ecom-shop-material/hVTxhngl_m_d79fa74fd9ca166ae9c4cce2b485cb7c_sx_564402_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/hVTxhngl_m_d79fa74fd9ca166ae9c4cce2b485cb7c_sx_564402_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3606291439534876689",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 3580,
+        "market_price": 3580,
+        "cos_fee": 1253,
+        "cos_ratio": 3500,
+        "month_sales": 29013,
+        "shop_id": 24488675,
+        "shop_name": "帝佳图书专营店",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 29013,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3617596394904399796",
+        "product_id": "3616023305150174893",
+        "title": "咕卡贴纸套装diy全套工具咕咔手帐贴画随心配女孩儿童趣味玩具",
+        "cover": {
+          "uri": "ecom-shop-material/YAgSBHkX_m_8abae3de0c0b8fedf9203a810bf7fd69_sx_160406_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/YAgSBHkX_m_8abae3de0c0b8fedf9203a810bf7fd69_sx_160406_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3616023305150174893",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 190,
+        "market_price": 1000,
+        "cos_fee": 19,
+        "cos_ratio": 1000,
+        "month_sales": 1070,
+        "shop_id": 93252764,
+        "shop_name": "快乐儿童购物站",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 1070,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3609439940506707036",
+        "product_id": "3609439313458237999",
+        "title": "【送两套工具】手工贴画儿童装饰玩具制作DIY益智贴专注力训练",
+        "cover": {
+          "uri": "ecom-shop-material/cMuCZSDU_m_bf686989e014964c5ffd3b701d81793c_sx_211536_www752-752",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/cMuCZSDU_m_bf686989e014964c5ffd3b701d81793c_sx_211536_www752-752"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3609439313458237999",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 690,
+        "market_price": 690,
+        "cos_fee": 345,
+        "cos_ratio": 5000,
+        "month_sales": 1662,
+        "shop_id": 93086962,
+        "shop_name": "亲子宝贝乐园",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 1662,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "customer_protection",
+            "text": {
+              "text": "消费者保障服务"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3555838985018445034",
+        "product_id": "3553911787994881259",
+        "title": "咕卡套装礼盒diy古卡盘手帐奶油胶贴纸贴画六一儿童节礼物61女孩",
+        "cover": {
+          "uri": "ecom-shop-material/GqvNHocR_m_1dbcb789da1a1edfaef517eb205013eb_sx_405863_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/GqvNHocR_m_1dbcb789da1a1edfaef517eb205013eb_sx_405863_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3553911787994881259",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1490,
+        "market_price": 1580,
+        "cos_fee": 224,
+        "cos_ratio": 1500,
+        "month_sales": 19440,
+        "shop_id": 21329235,
+        "shop_name": "光霁文创",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 19440,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": true,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "leaderboard_info": {
+          "category_id": 20040690,
+          "category_name": "咕卡套装",
+          "tab_id": 2,
+          "rank": 1,
+          "type": 2,
+          "rank_text": "咕卡套装爆款榜·第1名",
+          "billboard_type": 0
+        },
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "2",
+            "text": {
+              "text": "直播引流品"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3612028100700990246",
+        "product_id": "3612027456506215325",
+        "title": "新款换装贴纸少女心儿童益智玩具公主贴纸娃娃卡通可爱diy换装秀",
+        "cover": {
+          "uri": "ecom-shop-material/eBmPXWrj_m_974efab83b3fc25db74f25f52c53f3e6_sx_881044_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/eBmPXWrj_m_974efab83b3fc25db74f25f52c53f3e6_sx_881044_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3612027456506215325",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 990,
+        "market_price": 990,
+        "cos_fee": 446,
+        "cos_ratio": 4500,
+        "month_sales": 19477,
+        "shop_id": 26868675,
+        "shop_name": "艾尚公主玩具",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 19477,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "leaderboard_info": {
+          "category_id": 20038060,
+          "category_name": "可爱玩具",
+          "tab_id": 2,
+          "rank": 3,
+          "type": 2,
+          "rank_text": "可爱玩具爆款榜·第3名",
+          "billboard_type": 0
+        },
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          },
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3597393586850763088",
+        "product_id": "3593522021608383005",
+        "title": "钻石画儿童手工贴画水晶点钻幼儿园diy手工创意粘贴材料女孩玩具",
+        "cover": {
+          "uri": "ecom-shop-material/NrJUgHm_m_535a0f63b4a6e40f9be67803d5804bb0_sx_187456_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/NrJUgHm_m_535a0f63b4a6e40f9be67803d5804bb0_sx_187456_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3593522021608383005",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1690,
+        "market_price": 1690,
+        "cos_fee": 338,
+        "cos_ratio": 2000,
+        "month_sales": 756,
+        "shop_id": 1053241,
+        "shop_name": "童画之王",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 756,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "leaderboard_info": {
+          "category_id": 1084040,
+          "category_name": "创意手工玩具",
+          "tab_id": 2,
+          "rank": 13,
+          "type": 2,
+          "rank_text": "入选创意手工玩具爆款榜",
+          "billboard_type": 0
+        },
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3608586023707272939",
+        "product_id": "3608585471803962392",
+        "title": "1000个图案不重复手账贴纸少女心可爱小女孩儿童贴画手账装饰素材",
+        "cover": {
+          "uri": "ecom-shop-material/YIZoCjYg_m_ac655d5d93cb3704d7249f6144331bac_sx_276939_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/YIZoCjYg_m_ac655d5d93cb3704d7249f6144331bac_sx_276939_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3608585471803962392",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 990,
+        "market_price": 990,
+        "cos_fee": 297,
+        "cos_ratio": 3000,
+        "month_sales": 143,
+        "activity": {
+          "activity_icon": "https://lf3-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688117953&x-signature=oixQamwLnVsu0zN2%2BEx2c6IKSxc%3D",
+          "activity_type": 6,
+          "width": 24,
+          "height": 16
+        },
+        "shop_id": 17170913,
+        "shop_name": "君一严选文具",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 143,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "ActivityInfo",
+            "pic": "https://lf3-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688117953&x-signature=oixQamwLnVsu0zN2%2BEx2c6IKSxc%3D",
+            "height": 16,
+            "width": 24
+          },
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3618659730341408640",
+        "product_id": "3616978505910326143",
+        "title": "儿童早教启蒙安静粘贴书玩具手工材料包益智类玩具宝宝贴纸书",
+        "cover": {
+          "uri": "ecom-shop-material/DoMZNtqO_m_eb23136cbfe40be71032937c250e0a47_sx_1268203_www3333-3333",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/DoMZNtqO_m_eb23136cbfe40be71032937c250e0a47_sx_1268203_www3333-3333"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3616978505910326143",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 990,
+        "market_price": 990,
+        "cos_fee": 248,
+        "cos_ratio": 2500,
+        "month_sales": 254,
+        "shop_id": 86992643,
+        "shop_name": "三孔书画社",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 254,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "leaderboard_info": {
+          "category_id": 424880,
+          "category_name": "早教闪卡",
+          "tab_id": 2,
+          "rank": 17,
+          "type": 2,
+          "rank_text": "入选早教闪卡爆款榜",
+          "billboard_type": 0
+        },
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3614949415846051615",
+        "product_id": "3610173978309750436",
+        "title": "儿童钻石贴画贴钻diy手工砖石2023粘贴点钻画女孩宝宝3-6岁玩具12",
+        "cover": {
+          "uri": "ecom-shop-material/etaAdWrj_m_2f876e24ea562b68c7a495479933d81e_sx_490413_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/etaAdWrj_m_2f876e24ea562b68c7a495479933d81e_sx_490413_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3610173978309750436",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 2680,
+        "market_price": 2680,
+        "cos_fee": 804,
+        "cos_ratio": 3000,
+        "month_sales": 122,
+        "shop_id": 24030591,
+        "shop_name": "海派少年旗舰店",
+        "exp_score": "4.7",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 122,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3495515945470960709",
+        "product_id": "3492492516178171278",
+        "title": "【慧诗】手工eva贴画益智玩具提高宝宝动手能力3D立体粘贴贴纸DIY",
+        "cover": {
+          "uri": "temai/e685095f152f4dc9d9cb80c5dd6edbc50ae337a3www790-832",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/temai/e685095f152f4dc9d9cb80c5dd6edbc50ae337a3www790-832"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3492492516178171278",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 280,
+        "market_price": 10180,
+        "cos_fee": 56,
+        "cos_ratio": 2000,
+        "month_sales": 0,
+        "shop_id": 18789517,
+        "shop_name": "慧诗玩具店",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 0,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3612696520077501309",
+        "product_id": "3612243523375632519",
+        "title": "【送工具】手工DIY儿童贴画贴纸专注力训练益智玩具",
+        "cover": {
+          "uri": "ecom-shop-material/axSmkGhu_m_a58e90160ca6ad20d9a618e18ef2bec8_sx_465635_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/axSmkGhu_m_a58e90160ca6ad20d9a618e18ef2bec8_sx_465635_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3612243523375632519",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1980,
+        "market_price": 1980,
+        "cos_fee": 990,
+        "cos_ratio": 5000,
+        "month_sales": 4263,
+        "shop_id": 70940397,
+        "shop_name": "乐惠甄选",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 4263,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3618298669461287356",
+        "product_id": "3617933453200351865",
+        "title": "老师推荐【全套19.9】儿童益智手工diy制作材料包3d立体贴画玩具",
+        "cover": {
+          "uri": "ecom-shop-material/dejGvqUJ_m_59b67de058683d6f9fecfd29a952c44a_sx_306906_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/dejGvqUJ_m_59b67de058683d6f9fecfd29a952c44a_sx_306906_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3617933453200351865",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1990,
+        "market_price": 1990,
+        "cos_fee": 597,
+        "cos_ratio": 3000,
+        "month_sales": 9,
+        "shop_id": 69381016,
+        "shop_name": "墨夫子学习用品旗舰店",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 9,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "customer_protection",
+            "text": {
+              "text": "消费者保障服务"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3582338937982700626",
+        "product_id": "3582337428326899960",
+        "title": "咕卡大礼包奶油胶贴纸套装火漆印章全套材料古卡贴画手机壳diy杯",
+        "cover": {
+          "uri": "ecom-shop-material/GLhudBaL_m_c2e58784ab8e237bc966aeaae5e04f3d_sx_388980_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/GLhudBaL_m_c2e58784ab8e237bc966aeaae5e04f3d_sx_388980_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3582337428326899960",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1280,
+        "market_price": 1280,
+        "cos_fee": 192,
+        "cos_ratio": 1500,
+        "month_sales": 40721,
+        "shop_id": 22055362,
+        "shop_name": "创优文具专营店",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 40721,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3615785117001376355",
+        "product_id": "3615209662233852381",
+        "title": "新款钻石贴画儿童玉桂狗卡通diy钻石画带框手工贴钻益智玩具礼物",
+        "cover": {
+          "uri": "ecom-shop-material/JLqCcFKx_m_60ba922677fa03ceb33850e401abb0b0_sx_112449_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/JLqCcFKx_m_60ba922677fa03ceb33850e401abb0b0_sx_112449_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3615209662233852381",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 490,
+        "market_price": 990,
+        "cos_fee": 98,
+        "cos_ratio": 2000,
+        "month_sales": 33,
+        "shop_id": 64073803,
+        "shop_name": "火车晚点",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 33,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3612601096566085849",
+        "product_id": "3612171337860254036",
+        "title": "咕卡套装奶油胶礼盒女孩儿童手工diy工具材料咕卡盘贴纸贴画玩具",
+        "cover": {
+          "uri": "ecom-shop-material/cUlyuNhu_m_04190eb3045c8efd6d0292eb1ced71a7_sx_499286_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/cUlyuNhu_m_04190eb3045c8efd6d0292eb1ced71a7_sx_499286_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3612171337860254036",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1290,
+        "market_price": 2290,
+        "cos_fee": 194,
+        "cos_ratio": 1500,
+        "month_sales": 2164,
+        "shop_id": 87633000,
+        "shop_name": "状元郎文化用品店",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 2164,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "leaderboard_info": {
+          "category_id": 2070630,
+          "category_name": "儿童手工粘贴画",
+          "tab_id": 2,
+          "rank": 11,
+          "type": 2,
+          "rank_text": "入选儿童手工粘贴画爆款榜",
+          "billboard_type": 0
+        },
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3610301891067696899",
+        "product_id": "3610301814790087973",
+        "title": "【吴小吴宠粉】手工拼接胶手工贴纸DIY大人儿童通用手工贴花贴画",
+        "cover": {
+          "uri": "ecom-shop-material/EYBlypcR_m_694f3fdbdff8e5d544b7f7a8acb7deb7_sx_480704_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/EYBlypcR_m_694f3fdbdff8e5d544b7f7a8acb7deb7_sx_480704_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3610301814790087973",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1390,
+        "market_price": 1390,
+        "cos_fee": 695,
+        "cos_ratio": 5000,
+        "month_sales": 24,
+        "shop_id": 53641338,
+        "shop_name": "好家个体店",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 24,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3606715907705047911",
+        "product_id": "3603159595461305730",
+        "title": "2023网红女童生日礼物3-8儿童diy咕卡奶油胶套装玩具7-9卡通贴贴",
+        "cover": {
+          "uri": "ecom-shop-material/SxDOvgx_m_7b7299a978da2a94b846a1b03184cd7c_sx_1080923_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/SxDOvgx_m_7b7299a978da2a94b846a1b03184cd7c_sx_1080923_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3603159595461305730",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 2580,
+        "market_price": 2580,
+        "cos_fee": 774,
+        "cos_ratio": 3000,
+        "month_sales": 4144,
+        "shop_id": 6047670,
+        "shop_name": "歆果创玩",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 4144,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          },
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3612356185702986047",
+        "product_id": "3612352965635083099",
+        "title": "儿童果冻贴纸书反复粘贴宝宝创意卡通贴纸贴贴画安静书益智玩具",
+        "cover": {
+          "uri": "ecom-shop-material/uRbcYePW_m_bc4786cf94247c3ae66bb4d8208b9a82_sx_490018_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/uRbcYePW_m_bc4786cf94247c3ae66bb4d8208b9a82_sx_490018_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3612352965635083099",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 780,
+        "market_price": 1599,
+        "cos_fee": 390,
+        "cos_ratio": 5000,
+        "month_sales": 178,
+        "shop_id": 77984503,
+        "shop_name": "贝亨利益智玩具店",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 178,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3543355185789320644",
+        "product_id": "3542215307936558585",
+        "title": "启蒙安静书幼儿园早教认知教具儿童专注力益智玩具撕拉粘贴书贴画",
+        "cover": {
+          "uri": "ecom-shop-material/hwOfHEC_m_c41002f60620b2567231dda6f0ebf003_sx_1006547_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/hwOfHEC_m_c41002f60620b2567231dda6f0ebf003_sx_1006547_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3542215307936558585",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 2990,
+        "market_price": 2990,
+        "cos_fee": 897,
+        "cos_ratio": 3000,
+        "month_sales": 92,
+        "shop_id": 4987346,
+        "shop_name": "云和县洋桃电子商务商行的小店",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 92,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": true,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3552148371168954947",
+        "product_id": "3542853930927146710",
+        "title": "卡通贴纸3d手工儿童小粘贴可爱动物立体装饰贴幼儿园奖励自粘贴画",
+        "cover": {
+          "uri": "ecom-shop-material/v1_UMPQpRIP_70857076972192566170627_4cecfde434d26b887ac1e247570ea4f3_sx_458623_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/v1_UMPQpRIP_70857076972192566170627_4cecfde434d26b887ac1e247570ea4f3_sx_458623_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3542853930927146710",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 990,
+        "market_price": 990,
+        "cos_fee": 198,
+        "cos_ratio": 2000,
+        "month_sales": 89,
+        "shop_id": 35152627,
+        "shop_name": "雷鸟玩具专营店",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 89,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": true,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3604237600073883515",
+        "product_id": "3604231752534627334",
+        "title": "海绵宝宝派大星钻石画带框DIY手工制作生日礼物益智玩具卡通贴画",
+        "cover": {
+          "uri": "ecom-shop-material/ooewHqBr_m_b071c225fcabbe824a8445067f9db115_sx_109665_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/ooewHqBr_m_b071c225fcabbe824a8445067f9db115_sx_109665_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3604231752534627334",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 90,
+        "market_price": 390,
+        "cos_fee": 9,
+        "cos_ratio": 1000,
+        "month_sales": 457,
+        "activity": {
+          "activity_icon": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688117953&x-signature=E1%2BncN5AmZaTfdPyCnQcdZO%2FBL0%3D",
+          "activity_type": 6,
+          "width": 24,
+          "height": 16
+        },
+        "shop_id": 37332112,
+        "shop_name": "DIY儿童乐园",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 457,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "ActivityInfo",
+            "pic": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688117953&x-signature=E1%2BncN5AmZaTfdPyCnQcdZO%2FBL0%3D",
+            "height": 16,
+            "width": 24
+          },
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3616643287907205469",
+        "product_id": "3615372297621381185",
+        "title": "钻石贴画满钻2023新款手工DIY生日快乐小礼物带框摆台儿童粘贴画",
+        "cover": {
+          "uri": "ecom-shop-material/qqEOvKXQ_m_ddb2fb0e1b5d0d8e90264901fcc664d9_sx_193449_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/qqEOvKXQ_m_ddb2fb0e1b5d0d8e90264901fcc664d9_sx_193449_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3615372297621381185",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1390,
+        "market_price": 1390,
+        "cos_fee": 139,
+        "cos_ratio": 1000,
+        "month_sales": 50,
+        "shop_id": 89494029,
+        "shop_name": "山河钻石画",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 50,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3558575394649163822",
+        "product_id": "3558573887107261944",
+        "title": "【儿童手工diy纸质贴画】宝宝幼儿园3D立体EVA贴画创意粘贴玩具",
+        "cover": {
+          "uri": "ecom-shop-material/v1_omSXsqPW_71171491373257526090800_0e3b96bdcb889c758faf600468230add_sx_218236_www1134-1134",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/v1_omSXsqPW_71171491373257526090800_0e3b96bdcb889c758faf600468230add_sx_218236_www1134-1134"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3558573887107261944",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1010,
+        "market_price": 1010,
+        "cos_fee": 101,
+        "cos_ratio": 1000,
+        "month_sales": 7660,
+        "shop_id": 47908800,
+        "shop_name": "妮妮的玩具厂",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 7660,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          }
+        ],
+        "leaderboard_info": {
+          "category_id": 20132340,
+          "category_name": "立体贴画",
+          "tab_id": 2,
+          "rank": 2,
+          "type": 2,
+          "rank_text": "立体贴画爆款榜·第2名",
+          "billboard_type": 0
+        },
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "2",
+            "text": {
+              "text": "直播引流品"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 5,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3607610982370801646",
+        "product_id": "3607551326323627463",
+        "title": "儿童卡通公主换装贴纸书2-6岁女孩diy脸化妆本贴贴画宝宝益智玩具",
+        "cover": {
+          "uri": "ecom-shop-material/PipONeBr_m_77dca57eeb4367a360caa36dccf63ea1_sx_436460_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/PipONeBr_m_77dca57eeb4367a360caa36dccf63ea1_sx_436460_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3607551326323627463",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1990,
+        "market_price": 1990,
+        "cos_fee": 995,
+        "cos_ratio": 5000,
+        "month_sales": 11138,
+        "activity": {
+          "activity_icon": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688117953&x-signature=E1%2BncN5AmZaTfdPyCnQcdZO%2FBL0%3D",
+          "activity_type": 6,
+          "width": 24,
+          "height": 16
+        },
+        "shop_id": 35874574,
+        "shop_name": "恒浩图书专营店",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 11138,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "leaderboard_info": {
+          "category_id": 419920,
+          "category_name": "涂色书",
+          "tab_id": 2,
+          "rank": 2,
+          "type": 2,
+          "rank_text": "涂色书爆款榜·第2名",
+          "billboard_type": 0
+        },
+        "pic_product_tag": [
+          {
+            "type": "ActivityInfo",
+            "pic": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688117953&x-signature=E1%2BncN5AmZaTfdPyCnQcdZO%2FBL0%3D",
+            "height": 16,
+            "width": 24
+          },
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3573194297484380948",
+        "product_id": "3474179144508647021",
+        "title": "儿童宝石贴纸水晶钻石卡通贴贴画公主女孩3d立体奖励小粘贴纸装饰",
+        "cover": {
+          "uri": "ecom-shop-material/mEXStEf_m_2fbeea8dc5189082ff3f7d24d2469106_sx_463028_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/mEXStEf_m_2fbeea8dc5189082ff3f7d24d2469106_sx_463028_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3474179144508647021",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 990,
+        "market_price": 990,
+        "cos_fee": 396,
+        "cos_ratio": 4000,
+        "month_sales": 1037,
+        "activity": {
+          "activity_icon": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688117953&x-signature=E1%2BncN5AmZaTfdPyCnQcdZO%2FBL0%3D",
+          "activity_type": 6,
+          "width": 24,
+          "height": 16
+        },
+        "shop_id": 1756113,
+        "shop_name": "甲乙丙丁益智玩具",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 1037,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "leaderboard_info": {
+          "category_id": 20132340,
+          "category_name": "立体贴画",
+          "tab_id": 2,
+          "rank": 13,
+          "type": 2,
+          "rank_text": "入选立体贴画爆款榜",
+          "billboard_type": 0
+        },
+        "pic_product_tag": [
+          {
+            "type": "ActivityInfo",
+            "pic": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688117953&x-signature=E1%2BncN5AmZaTfdPyCnQcdZO%2FBL0%3D",
+            "height": 16,
+            "width": 24
+          },
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "2",
+            "text": {
+              "text": "直播引流品"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3616607807291403917",
+        "product_id": "3615694776541838614",
+        "title": "【随机款式】手工贴画儿童幼儿玩具手工制作DIY益智贴卡通贴画",
+        "cover": {
+          "uri": "ecom-shop-material/vsAiAEqO_m_e5d41e81209bc01b17d055f0414084d6_sx_358673_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/vsAiAEqO_m_e5d41e81209bc01b17d055f0414084d6_sx_358673_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3615694776541838614",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 990,
+        "market_price": 990,
+        "cos_fee": 347,
+        "cos_ratio": 3500,
+        "month_sales": 216,
+        "shop_id": 50096190,
+        "shop_name": "畅想DIY小店",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 216,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3616828078917065793",
+        "product_id": "3615731543684835542",
+        "title": "儿童手工diy公主换装贴纸书粘贴女孩梦幻手绘戳戳乐玩具本贴贴画",
+        "cover": {
+          "uri": "ecom-shop-material/FAxysSqO_m_e785841bb644de0a8ce00375c45aab6f_sx_431271_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/FAxysSqO_m_e785841bb644de0a8ce00375c45aab6f_sx_431271_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3615731543684835542",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 990,
+        "market_price": 1980,
+        "cos_fee": 297,
+        "cos_ratio": 3000,
+        "month_sales": 49,
+        "activity": {
+          "activity_icon": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688117953&x-signature=E1%2BncN5AmZaTfdPyCnQcdZO%2FBL0%3D",
+          "activity_type": 6,
+          "width": 24,
+          "height": 16
+        },
+        "shop_id": 60555084,
+        "shop_name": "HY涵宇玩具旗舰店",
+        "exp_score": "4.7",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 49,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "ActivityInfo",
+            "pic": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688117953&x-signature=E1%2BncN5AmZaTfdPyCnQcdZO%2FBL0%3D",
+            "height": 16,
+            "width": 24
+          },
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3556751019176248099",
+        "product_id": "3553163724909082146",
+        "title": "【送工具】儿童创意贴画益智玩具做手工DIY钻石画培养孩子专注力",
+        "cover": {
+          "uri": "ecom-shop-material/v1_obiuekdZ_71198860044082711400548_a192ad4ca7e9d464fc6e985887e6f59e_sx_509221_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/v1_obiuekdZ_71198860044082711400548_a192ad4ca7e9d464fc6e985887e6f59e_sx_509221_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3553163724909082146",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 680,
+        "market_price": 680,
+        "cos_fee": 170,
+        "cos_ratio": 2500,
+        "month_sales": 614,
+        "shop_id": 26134548,
+        "shop_name": "乐丫百货",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 614,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "tiered_cos": {
+          "tiered_cos_list": [
+            {
+              "cos_ratio": 2500,
+              "cos_fee": 170
+            },
+            {
+              "cos_ratio": 3000,
+              "cos_fee": 204
+            }
+          ],
+          "status": 1,
+          "threshold": [
+            1,
+            10
+          ],
+          "start_time": "1681124986000",
+          "end_time": "1704038399000",
+          "plan_id": ""
+        },
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "TieredPublicCosTag",
+            "text": {
+              "text": "阶梯佣金",
+              "color": "#FE2C55"
+            },
+            "border_color": "rgba(254, 44, 85, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3615964376982508895",
+        "product_id": "3615172410749415338",
+        "title": "咕卡女孩儿童玩具全套豪华咕卡套装diy生日礼物手账本随心配贴画",
+        "cover": {
+          "uri": "ecom-shop-material/kwLPjMKF_m_f0e35116676a92557a75170d37b38a39_sx_1223949_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/kwLPjMKF_m_f0e35116676a92557a75170d37b38a39_sx_1223949_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3615172410749415338",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1250,
+        "market_price": 2250,
+        "cos_fee": 250,
+        "cos_ratio": 2000,
+        "month_sales": 1530,
+        "shop_id": 86932824,
+        "shop_name": "贝备萌文创用品",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 1530,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3608320268285698669",
+        "product_id": "3608312228937394372",
+        "title": "手工贴画儿童幼儿玩具手工制作DIY益智贴 创意卡通贴画专注力训练",
+        "cover": {
+          "uri": "ecom-shop-material/VIBddpcR_m_ba3674465f4570fb09d5b822b8eb732a_sx_138743_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/VIBddpcR_m_ba3674465f4570fb09d5b822b8eb732a_sx_138743_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3608312228937394372",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 990,
+        "market_price": 990,
+        "cos_fee": 426,
+        "cos_ratio": 4300,
+        "month_sales": 772,
+        "shop_id": 48578897,
+        "shop_name": "乐玩工厂个体店",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 772,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3563735634680144638",
+        "product_id": "3563602634466292229",
+        "title": "贝丁兔儿童果冻贴纸趣味益智玩具 宝宝贴贴画反复粘贴卡通贴纸",
+        "cover": {
+          "uri": "ecom-shop-material/QBSdjCkH_m_3eda18590df9889b2022bbb99dafb513_sx_585543_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/QBSdjCkH_m_3eda18590df9889b2022bbb99dafb513_sx_585543_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3563602634466292229",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 2580,
+        "market_price": 2580,
+        "cos_fee": 1161,
+        "cos_ratio": 4500,
+        "month_sales": 6289,
+        "shop_id": 35781939,
+        "shop_name": "大脚象图书企业店",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 6289,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "leaderboard_info": {
+          "category_id": 175580,
+          "category_name": "宝宝贴纸",
+          "tab_id": 2,
+          "rank": 7,
+          "type": 2,
+          "rank_text": "宝宝贴纸爆款榜·第7名",
+          "billboard_type": 0
+        },
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          },
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3601773478602239110",
+        "product_id": "3601773107087598597",
+        "title": "钻石贴画儿童幼儿玩具手工制作diy益智贴卡通贴画专注力多款图案",
+        "cover": {
+          "uri": "ecom-shop-material/sNVLzZD_m_7bc0ecffdc7455f711fe89b82cbaae87_sx_899310_www1667-1667",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/sNVLzZD_m_7bc0ecffdc7455f711fe89b82cbaae87_sx_899310_www1667-1667"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3601773107087598597",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 690,
+        "market_price": 690,
+        "cos_fee": 207,
+        "cos_ratio": 3000,
+        "month_sales": 530,
+        "shop_id": 4673406,
+        "shop_name": "畅晨优选",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 530,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "tiered_cos": {
+          "tiered_cos_list": [
+            {
+              "cos_ratio": 3000,
+              "cos_fee": 207
+            },
+            {
+              "cos_ratio": 3500,
+              "cos_fee": 242
+            }
+          ],
+          "status": 1,
+          "threshold": [
+            1,
+            10
+          ],
+          "start_time": "1685329772000",
+          "end_time": "1725073748000",
+          "plan_id": ""
+        },
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "TieredPublicCosTag",
+            "text": {
+              "text": "阶梯佣金",
+              "color": "#FE2C55"
+            },
+            "border_color": "rgba(254, 44, 85, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "customer_protection",
+            "text": {
+              "text": "消费者保障服务"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3610545113916413063",
+        "product_id": "3609613191937667522",
+        "title": "公主戳戳乐儿童贴纸贴画3-6岁少儿益智玩具6-12岁儿童换装公主",
+        "cover": {
+          "uri": "ecom-shop-material/RTFqBgrj_m_42a6f021d91d230457637631d9bbc941_sx_1677474_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/RTFqBgrj_m_42a6f021d91d230457637631d9bbc941_sx_1677474_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3609613191937667522",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 2990,
+        "market_price": 2990,
+        "cos_fee": 359,
+        "cos_ratio": 1200,
+        "month_sales": 1546,
+        "shop_id": 74089895,
+        "shop_name": "萨米熊母婴玩具旗舰店",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 1546,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3618150473728683077",
+        "product_id": "3618149700592624706",
+        "title": "儿童手工贴画幼儿玩具手工制作DIY益智贴 创意卡通贴画专注力训练",
+        "cover": {
+          "uri": "ecom-shop-material/VIBddpcR_m_ba3674465f4570fb09d5b822b8eb732a_sx_138743_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/VIBddpcR_m_ba3674465f4570fb09d5b822b8eb732a_sx_138743_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3618149700592624706",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 990,
+        "market_price": 990,
+        "cos_fee": 426,
+        "cos_ratio": 4300,
+        "month_sales": 0,
+        "shop_id": 48578897,
+        "shop_name": "乐玩工厂个体店",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 0,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3617220544421835244",
+        "product_id": "3615221011693320930",
+        "title": "儿童剪纸手工幼儿园专用diy制作贴画3-6岁宝宝入门材料包趣味套装",
+        "cover": {
+          "uri": "ecom-shop-material/XtIdPueS_m_051273b780a93967e2767d7dac5a2bac_sx_309148_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/XtIdPueS_m_051273b780a93967e2767d7dac5a2bac_sx_309148_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3615221011693320930",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 280,
+        "market_price": 280,
+        "cos_fee": 84,
+        "cos_ratio": 3000,
+        "month_sales": 35,
+        "shop_id": 14846332,
+        "shop_name": "义乌市初屹电子商务有限公司的小店",
+        "exp_score": "4.6",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 35,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "customer_protection",
+            "text": {
+              "text": "消费者保障服务"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3563984193086225750",
+        "product_id": "3555367511400810706",
+        "title": "玩具儿童贴画DIY益智创意亲子手工专注力训练公主钻石女孩 马赛克",
+        "cover": {
+          "uri": "ecom-shop-material/Icobjthu_m_e34d21822504f33e155b8f9d45431a10_sx_676270_www1181-1181",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/Icobjthu_m_e34d21822504f33e155b8f9d45431a10_sx_676270_www1181-1181"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3555367511400810706",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 880,
+        "market_price": 880,
+        "cos_fee": 317,
+        "cos_ratio": 3600,
+        "month_sales": 4448,
+        "shop_id": 38235718,
+        "shop_name": "第一夫人DIY艺术个体店",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 4448,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "tiered_cos": {
+          "tiered_cos_list": [
+            {
+              "cos_ratio": 3700,
+              "cos_fee": 326
+            },
+            {
+              "cos_ratio": 4000,
+              "cos_fee": 352
+            }
+          ],
+          "status": 1,
+          "threshold": [
+            1,
+            10
+          ],
+          "start_time": "1682656301000",
+          "end_time": "1704038399000",
+          "plan_id": ""
+        },
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "TieredPublicCosTag",
+            "text": {
+              "text": "阶梯佣金",
+              "color": "#FE2C55"
+            },
+            "border_color": "rgba(254, 44, 85, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3601393867833917075",
+        "product_id": "3601032431387416753",
+        "title": "美乐童年公主戳戳乐儿童公主换装衣服贴纸涂色手绘手工时尚diy贴",
+        "cover": {
+          "uri": "ecom-shop-material/acVTbhp_m_76b322438838e5994265c834e2e0c30a_sx_564859_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/acVTbhp_m_76b322438838e5994265c834e2e0c30a_sx_564859_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3601032431387416753",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 6990,
+        "market_price": 6990,
+        "cos_fee": 1398,
+        "cos_ratio": 2000,
+        "month_sales": 14077,
+        "shop_id": 1583526,
+        "shop_name": "美乐童年官方旗舰店",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 14077,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "leaderboard_info": {
+          "category_id": 50603330,
+          "category_name": "儿童学习用品",
+          "tab_id": 2,
+          "rank": 2,
+          "type": 2,
+          "rank_text": "儿童学习用品品牌榜·第2名",
+          "billboard_type": 1
+        },
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          },
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3554282014200980995",
+        "product_id": "3554141036286752310",
+        "title": "【福利款-带2套工具】 手工贴画儿童玩具制作DIY益智贴专注力训练",
+        "cover": {
+          "uri": "ecom-shop-material/vsAiAEqO_m_2dee231fa657a5cdf98f8e13fb8979bd_sx_477321_www1250-1250",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/vsAiAEqO_m_2dee231fa657a5cdf98f8e13fb8979bd_sx_477321_www1250-1250"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3554141036286752310",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 690,
+        "market_price": 690,
+        "cos_fee": 242,
+        "cos_ratio": 3500,
+        "month_sales": 9748,
+        "activity": {
+          "activity_icon": "https://lf3-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688117953&x-signature=oixQamwLnVsu0zN2%2BEx2c6IKSxc%3D",
+          "activity_type": 6,
+          "width": 24,
+          "height": 16
+        },
+        "shop_id": 50096190,
+        "shop_name": "畅想DIY小店",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 9748,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": true,
+        "tiered_cos": {
+          "tiered_cos_list": [
+            {
+              "cos_ratio": 3000,
+              "cos_fee": 207
+            },
+            {
+              "cos_ratio": 3500,
+              "cos_fee": 242
+            }
+          ],
+          "status": 1,
+          "threshold": [
+            1,
+            100
+          ],
+          "start_time": "1680169549000",
+          "end_time": "1704015942000",
+          "plan_id": ""
+        },
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "ActivityInfo",
+            "pic": "https://lf3-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688117953&x-signature=oixQamwLnVsu0zN2%2BEx2c6IKSxc%3D",
+            "height": 16,
+            "width": 24
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "TieredPublicCosTag",
+            "text": {
+              "text": "阶梯佣金",
+              "color": "#FE2C55"
+            },
+            "border_color": "rgba(254, 44, 85, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3602378729671777125",
+        "product_id": "3587164666683590578",
+        "title": "inamazy贴纸书立体贴纸泡泡书可爱3D泡泡贴纸书手账贴画素材手帐",
+        "cover": {
+          "uri": "ecom-shop-material/aqkiotDU_m_f82e9b4cfd91d5820ea65d4e7b613e31_sx_1723334_www1334-1334",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/aqkiotDU_m_f82e9b4cfd91d5820ea65d4e7b613e31_sx_1723334_www1334-1334"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3587164666683590578",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1290,
+        "market_price": 1290,
+        "cos_fee": 142,
+        "cos_ratio": 1100,
+        "month_sales": 8604,
+        "activity": {
+          "activity_icon": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688117953&x-signature=E1%2BncN5AmZaTfdPyCnQcdZO%2FBL0%3D",
+          "activity_type": 6,
+          "width": 24,
+          "height": 16
+        },
+        "shop_id": 75989885,
+        "shop_name": "Inamazy",
+        "exp_score": "4.7",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 8604,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "tiered_cos": {
+          "tiered_cos_list": [
+            {
+              "cos_ratio": 1000,
+              "cos_fee": 129
+            },
+            {
+              "cos_ratio": 1500,
+              "cos_fee": 194
+            }
+          ],
+          "status": 1,
+          "threshold": [
+            1,
+            300
+          ],
+          "start_time": "1683080847000",
+          "end_time": "1685548799000",
+          "plan_id": ""
+        },
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "leaderboard_info": {
+          "category_id": 20132350,
+          "category_name": "立体贴纸",
+          "tab_id": 2,
+          "rank": 1,
+          "type": 2,
+          "rank_text": "立体贴纸爆款榜·第1名",
+          "billboard_type": 0
+        },
+        "pic_product_tag": [
+          {
+            "type": "ActivityInfo",
+            "pic": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688117953&x-signature=E1%2BncN5AmZaTfdPyCnQcdZO%2FBL0%3D",
+            "height": 16,
+            "width": 24
+          },
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "TieredPublicCosTag",
+            "text": {
+              "text": "阶梯佣金",
+              "color": "#FE2C55"
+            },
+            "border_color": "rgba(254, 44, 85, 0.34)"
+          },
+          {
+            "type": "2",
+            "text": {
+              "text": "直播引流品"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 10,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3552785842948974476",
+        "product_id": "3552616827395926877",
+        "title": "随心贴亲子DIY益智玩具创意手工儿童贴画专注力钻石画小朋友 空间",
+        "cover": {
+          "uri": "ecom-shop-material/Icobjthu_m_7967ee305780a2aea44019fddcfe82fb_sx_668260_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/Icobjthu_m_7967ee305780a2aea44019fddcfe82fb_sx_668260_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3552616827395926877",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 880,
+        "market_price": 880,
+        "cos_fee": 317,
+        "cos_ratio": 3600,
+        "month_sales": 4010,
+        "shop_id": 38235718,
+        "shop_name": "第一夫人DIY艺术个体店",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 4010,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": true,
+        "tiered_cos": {
+          "tiered_cos_list": [
+            {
+              "cos_ratio": 3700,
+              "cos_fee": 326
+            },
+            {
+              "cos_ratio": 4000,
+              "cos_fee": 352
+            }
+          ],
+          "status": 1,
+          "threshold": [
+            1,
+            10
+          ],
+          "start_time": "1682656301000",
+          "end_time": "1704038399000",
+          "plan_id": ""
+        },
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "leaderboard_info": {
+          "category_id": 1085480,
+          "category_name": "手工画玩具",
+          "tab_id": 2,
+          "rank": 18,
+          "type": 2,
+          "rank_text": "入选手工画玩具爆款榜",
+          "billboard_type": 0
+        },
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "TieredPublicCosTag",
+            "text": {
+              "text": "阶梯佣金",
+              "color": "#FE2C55"
+            },
+            "border_color": "rgba(254, 44, 85, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3615902595119469446",
+        "product_id": "3615893990144116307",
+        "title": "玩具儿童钻石贴画DIY益智创意亲子手工专注力训练公主贴画马赛克",
+        "cover": {
+          "uri": "ecom-shop-material/flaCYkdZ_m_019a95df010b2215628b05891bdd1628_sx_149958_www1024-1024",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/flaCYkdZ_m_019a95df010b2215628b05891bdd1628_sx_149958_www1024-1024"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3615893990144116307",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 882,
+        "market_price": 990,
+        "cos_fee": 353,
+        "cos_ratio": 4000,
+        "month_sales": 22,
+        "shop_id": 97767900,
+        "shop_name": "贝贝手工",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 22,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3529703447345666748",
+        "product_id": "3529689958891784741",
+        "title": "钻石画儿童专注力手工diy创意粘贴材料幼儿园益智手工粘贴钻石画",
+        "cover": {
+          "uri": "ecom-shop-material/MKtDBISC_m_f5f083c9251dde13b587eb220fc91282_sx_103428_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/MKtDBISC_m_f5f083c9251dde13b587eb220fc91282_sx_103428_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3529689958891784741",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1380,
+        "market_price": 1380,
+        "cos_fee": 414,
+        "cos_ratio": 3000,
+        "month_sales": 140,
+        "shop_id": 37111429,
+        "shop_name": "汇海拾贝儿童DIY工厂店",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 140,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": true,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3608179377210317509",
+        "product_id": "3607444394489290437",
+        "title": "钻石贴画儿童手工2023新款玉桂狗带相框水晶点钻粘贴画生日礼玩具",
+        "cover": {
+          "uri": "ecom-shop-material/ooewHqBr_m_a59e5508c09eb4f30aeecdd30fd33afe_sx_229492_www1024-1024",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/ooewHqBr_m_a59e5508c09eb4f30aeecdd30fd33afe_sx_229492_www1024-1024"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3607444394489290437",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 890,
+        "market_price": 1390,
+        "cos_fee": 89,
+        "cos_ratio": 1000,
+        "month_sales": 214,
+        "activity": {
+          "activity_icon": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688117953&x-signature=E1%2BncN5AmZaTfdPyCnQcdZO%2FBL0%3D",
+          "activity_type": 6,
+          "width": 24,
+          "height": 16
+        },
+        "shop_id": 37332112,
+        "shop_name": "DIY儿童乐园",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 214,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "ActivityInfo",
+            "pic": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688117953&x-signature=E1%2BncN5AmZaTfdPyCnQcdZO%2FBL0%3D",
+            "height": 16,
+            "width": 24
+          },
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3609787211127599265",
+        "product_id": "3602045001921653311",
+        "title": "新款玉桂狗儿童钻石贴画手工diy玩具男女孩创意生日礼物益智玩具",
+        "cover": {
+          "uri": "ecom-shop-material/blJaFJPA_m_e415b51c24d9a6c8b7e41fd81ab80121_sx_256807_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/blJaFJPA_m_e415b51c24d9a6c8b7e41fd81ab80121_sx_256807_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3602045001921653311",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1280,
+        "market_price": 1280,
+        "cos_fee": 256,
+        "cos_ratio": 2000,
+        "month_sales": 210,
+        "activity": {
+          "activity_icon": "https://lf3-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688117953&x-signature=oixQamwLnVsu0zN2%2BEx2c6IKSxc%3D",
+          "activity_type": 6,
+          "width": 24,
+          "height": 16
+        },
+        "shop_id": 50696978,
+        "shop_name": "奕堡益智玩具",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 210,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "ActivityInfo",
+            "pic": "https://lf3-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688117953&x-signature=oixQamwLnVsu0zN2%2BEx2c6IKSxc%3D",
+            "height": 16,
+            "width": 24
+          },
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3584609790405511962",
+        "product_id": "3582100240913794338",
+        "title": "奶油胶手工diy咕卡贴纸收纳盒套装儿童贴画咕卡盘树脂配件材料包",
+        "cover": {
+          "uri": "ecom-shop-material/ipnwqDMM_m_3fa74ecdd5beb4eb60a053c6276306ff_sx_731111_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/ipnwqDMM_m_3fa74ecdd5beb4eb60a053c6276306ff_sx_731111_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3582100240913794338",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 990,
+        "market_price": 990,
+        "cos_fee": 198,
+        "cos_ratio": 2000,
+        "month_sales": 156,
+        "shop_id": 9148654,
+        "shop_name": "竹全电商",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 156,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "customer_protection",
+            "text": {
+              "text": "消费者保障服务"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3618335908933292777",
+        "product_id": "3618335717798864316",
+        "title": "老师推荐【全套19.9】儿童益智手工diy制作材料包3d立体贴画玩具",
+        "cover": {
+          "uri": "ecom-shop-material/VEnNnHm_m_3d64326d73b35d4cea0147e1da642d85_sx_140749_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/VEnNnHm_m_3d64326d73b35d4cea0147e1da642d85_sx_140749_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3618335717798864316",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1990,
+        "market_price": 1990,
+        "cos_fee": 597,
+        "cos_ratio": 3000,
+        "month_sales": 2211,
+        "shop_id": 1723599,
+        "shop_name": "奕思瑞玩具店",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 2211,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "leaderboard_info": {
+          "category_id": 20132340,
+          "category_name": "立体贴画",
+          "tab_id": 2,
+          "rank": 3,
+          "type": 2,
+          "rank_text": "立体贴画爆款榜·第3名",
+          "billboard_type": 0
+        },
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          },
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3618666735416265046",
+        "product_id": "3616080631009785623",
+        "title": "库洛米美乐蒂钻石画diy手工钻石贴画送闺蜜生日礼物儿童益智玩具",
+        "cover": {
+          "uri": "ecom-shop-material/HcWhWLcp_m_43bbb50b68093b0d5fe92c77eb5c84bc_sx_248803_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/HcWhWLcp_m_43bbb50b68093b0d5fe92c77eb5c84bc_sx_248803_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3616080631009785623",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 690,
+        "market_price": 990,
+        "cos_fee": 138,
+        "cos_ratio": 2000,
+        "month_sales": 49,
+        "activity": {
+          "activity_icon": "https://lf3-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688117953&x-signature=oixQamwLnVsu0zN2%2BEx2c6IKSxc%3D",
+          "activity_type": 6,
+          "width": 24,
+          "height": 16
+        },
+        "shop_id": 38505888,
+        "shop_name": "庆来百货严选",
+        "exp_score": "4.7",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 49,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "ActivityInfo",
+            "pic": "https://lf3-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688117953&x-signature=oixQamwLnVsu0zN2%2BEx2c6IKSxc%3D",
+            "height": 16,
+            "width": 24
+          },
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3572699746982339385",
+        "product_id": "3572540193267412557",
+        "title": "卡通儿童公主换装贴纸书套装女孩贴画百变diy脸换妆贴纸益智玩具",
+        "cover": {
+          "uri": "ecom-shop-material/eBmPXWrj_m_0d8e7c84b3b74445fd139ae81e5b1803_sx_455553_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/eBmPXWrj_m_0d8e7c84b3b74445fd139ae81e5b1803_sx_455553_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3572540193267412557",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 990,
+        "market_price": 990,
+        "cos_fee": 446,
+        "cos_ratio": 4500,
+        "month_sales": 3936,
+        "shop_id": 26868675,
+        "shop_name": "艾尚公主玩具",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 3936,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "leaderboard_info": {
+          "category_id": 175580,
+          "category_name": "宝宝贴纸",
+          "tab_id": 2,
+          "rank": 16,
+          "type": 2,
+          "rank_text": "入选宝宝贴纸爆款榜",
+          "billboard_type": 0
+        },
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          },
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3615598356673523212",
+        "product_id": "3614669152050095873",
+        "title": "钻石贴画儿童玉桂狗卡通diy钻石画带框新款手工贴钻益智玩具礼物",
+        "cover": {
+          "uri": "ecom-shop-material/JLqCcFKx_m_c2b824f784b3357708e3eae93dbdb402_sx_120346_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/JLqCcFKx_m_c2b824f784b3357708e3eae93dbdb402_sx_120346_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3614669152050095873",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 490,
+        "market_price": 490,
+        "cos_fee": 88,
+        "cos_ratio": 1800,
+        "month_sales": 149,
+        "shop_id": 64073803,
+        "shop_name": "火车晚点",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 149,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3616557876107209024",
+        "product_id": "3614899284257974299",
+        "title": "儿童益智手工玩具儿童创意DIY贴画亲子卡通可爱贴画培养专注力",
+        "cover": {
+          "uri": "ecom-shop-material/QRJXJzLw_m_c7ad38112e331f4ba493b61b1db474b9_sx_62567_www750-750",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/QRJXJzLw_m_c7ad38112e331f4ba493b61b1db474b9_sx_62567_www750-750"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3614899284257974299",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1090,
+        "market_price": 1390,
+        "cos_fee": 327,
+        "cos_ratio": 3000,
+        "month_sales": 50,
+        "activity": {
+          "activity_icon": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688117953&x-signature=E1%2BncN5AmZaTfdPyCnQcdZO%2FBL0%3D",
+          "activity_type": 6,
+          "width": 24,
+          "height": 16
+        },
+        "shop_id": 24856508,
+        "shop_name": "圣越生活家居",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 50,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "ActivityInfo",
+            "pic": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688117953&x-signature=E1%2BncN5AmZaTfdPyCnQcdZO%2FBL0%3D",
+            "height": 16,
+            "width": 24
+          },
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3598908812641360559",
+        "product_id": "3594447554814860442",
+        "title": "幼儿童益智力玩具2-8岁手工diy粘贴画幼儿园炫彩创意贴纸卡通拼图",
+        "cover": {
+          "uri": "ecom-shop-material/EXvFHdkX_m_b07b9bec785aef5974428b049ab34522_sx_350524_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/EXvFHdkX_m_b07b9bec785aef5974428b049ab34522_sx_350524_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3594447554814860442",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 3990,
+        "market_price": 3990,
+        "cos_fee": 798,
+        "cos_ratio": 2000,
+        "month_sales": 23,
+        "activity": {
+          "activity_icon": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688117953&x-signature=E1%2BncN5AmZaTfdPyCnQcdZO%2FBL0%3D",
+          "activity_type": 6,
+          "width": 24,
+          "height": 16
+        },
+        "shop_id": 14708798,
+        "shop_name": "小破孩的玩具",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 23,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "ActivityInfo",
+            "pic": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688117953&x-signature=E1%2BncN5AmZaTfdPyCnQcdZO%2FBL0%3D",
+            "height": 16,
+            "width": 24
+          },
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3599767939236137704",
+        "product_id": "3599614821328367651",
+        "title": "换妆贴纸儿童女孩益智玩具卡通书美丽公主化妆秀公主贴画换装贴纸",
+        "cover": {
+          "uri": "ecom-shop-material/eBmPXWrj_m_21e7d393dace82e49f6cba5302b2785a_sx_312078_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/eBmPXWrj_m_21e7d393dace82e49f6cba5302b2785a_sx_312078_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3599614821328367651",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 990,
+        "market_price": 990,
+        "cos_fee": 446,
+        "cos_ratio": 4500,
+        "month_sales": 3282,
+        "shop_id": 26868675,
+        "shop_name": "艾尚公主玩具",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 3282,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          },
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3608466016927113768",
+        "product_id": "3608133443625552350",
+        "title": "儿童女孩咕卡套装贴纸批发DIY镭射贴纸随心配韩系可爱ins手账贴画",
+        "cover": {
+          "uri": "ecom-shop-material/kwLPjMKF_m_b60660f76eeea4383aaa9a954eff1970_sx_180868_www790-790",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/kwLPjMKF_m_b60660f76eeea4383aaa9a954eff1970_sx_180868_www790-790"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3608133443625552350",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1290,
+        "market_price": 2290,
+        "cos_fee": 258,
+        "cos_ratio": 2000,
+        "month_sales": 2308,
+        "shop_id": 86932824,
+        "shop_name": "贝备萌文创用品",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 2308,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      }
+    ],
+    "has_more": true,
+    "search_id": "7239277831321125176",
+    "rec_has_more": false,
+    "session_id": "session7239278814696587578"
+  },
+  "total": 500,
+  "log_id": "20230531173912949BF5AB263D4AF4D9B7",
+  "rec_total": 0
+}

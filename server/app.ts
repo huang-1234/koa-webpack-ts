@@ -2,7 +2,9 @@ import * as Koa from 'koa'
 import * as path from 'path'
 import * as Router from 'koa-router'
 
-const app: Koa = new Koa()
+const app: Koa = new Koa();
+const { getSelectGoods } = require('../server/select_goods/index');
+const { setCORSHeader } = require('./middleware/cors-middleware')
 
 type Context = Koa.Context;
 
@@ -37,15 +39,18 @@ router
     })
   })
 
-router.get('/user', async (ctx: Context) => {
+router.get('/apis/ecom/pc/select/goods', async (ctx: Context) => {
+
   ctx.body = {
-    ctx
+    code: 0,
+    data: getSelectGoods()?.data,
   }
 })
 
 app
   .use(router.routes())
   .use(router.allowedMethods())
+  .use(setCORSHeader)
 
 module.exports = app
 export default app

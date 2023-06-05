@@ -6,6 +6,9 @@ import { NextHandleFunction } from 'connect'
 const devMiddleware = (compiler: webpack.ICompiler, opts: WebpackDevMiddleware.Options) => {
   const middleware = WebpackDevMiddleware(compiler, opts)
   return async (ctx: Koa.Context, next: NextHandleFunction) => {
+    ctx.set(
+      'Access-Control-Allow-Origin', '*'
+    )
     await middleware(ctx.req, {
       // @ts-ignore
       end: (content: string) => {

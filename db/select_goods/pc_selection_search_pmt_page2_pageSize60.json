@@ -1,0 +1,5350 @@
+{
+  "code": 0,
+  "st": 0,
+  "msg": "",
+  "data": {
+    "promotions": [
+      {
+        "promotion_id": "3566008741784628324",
+        "product_id": "3566008194243400784",
+        "title": "【乐乐】儿童画板家用可擦消除的幼儿磁性写字板宝宝画画涂色玩具",
+        "cover": {
+          "uri": "ecom-shop-material/uhCgILcp_m_bc74dcebe4357df45b51aade257b990c_sx_969873_www741-741",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/uhCgILcp_m_bc74dcebe4357df45b51aade257b990c_sx_969873_www741-741"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3566008194243400784",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1690,
+        "market_price": 1690,
+        "cos_fee": 338,
+        "cos_ratio": 2000,
+        "month_sales": 581,
+        "shop_id": 17107643,
+        "shop_name": "乐佳乐的母婴玩具小店",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 581,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          },
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3578674304239428403",
+        "product_id": "3578308147691045030",
+        "title": "儿童小黑板支架式家用磁性画板可擦写升降移动双面黑板幼儿画画板",
+        "cover": {
+          "uri": "ecom-shop-material/vqrhgCkH_m_e8257c4dbf1541dcb7c888e9474b3742_sx_168289_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/vqrhgCkH_m_e8257c4dbf1541dcb7c888e9474b3742_sx_168289_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3578308147691045030",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 2490,
+        "market_price": 2990,
+        "cos_fee": 623,
+        "cos_ratio": 2500,
+        "month_sales": 11,
+        "shop_id": 38916628,
+        "shop_name": "北靓智趣优选",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 11,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "customer_protection",
+            "text": {
+              "text": "消费者保障服务"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3563615032040396181",
+        "product_id": "3563585897087816171",
+        "title": "PS Board/磐写旗舰版液晶手写板儿童画板 益智涂鸦绘画电子画板",
+        "cover": {
+          "uri": "ecom-shop-material/LCakDrPA_m_a34dd996348c140aeff168558bb3622f_sx_298611_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/LCakDrPA_m_a34dd996348c140aeff168558bb3622f_sx_298611_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3563585897087816171",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 2980,
+        "market_price": 2980,
+        "cos_fee": 894,
+        "cos_ratio": 3000,
+        "month_sales": 1,
+        "activity": {
+          "activity_icon": "https://lf3-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688190762&x-signature=Gt8Au8t52lH3hCslbccgFQC4WT0%3D",
+          "activity_type": 6,
+          "width": 24,
+          "height": 16
+        },
+        "shop_id": 53553029,
+        "shop_name": "四维商务专营店",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 1,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "ActivityInfo",
+            "pic": "https://lf3-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688190762&x-signature=Gt8Au8t52lH3hCslbccgFQC4WT0%3D",
+            "height": 16,
+            "width": 24
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3597159199546707310",
+        "product_id": "3596965492402854005",
+        "title": "画板儿童写字板彩色涂画板液晶手写板绘画板益智无尘磐写儿童玩具",
+        "cover": {
+          "uri": "ecom-shop-material/yoSILpaL_m_ec74499f3807396712e16b5ccd0f7a05_sx_132633_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/yoSILpaL_m_ec74499f3807396712e16b5ccd0f7a05_sx_132633_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3596965492402854005",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1736,
+        "market_price": 1736,
+        "cos_fee": 17,
+        "cos_ratio": 100,
+        "month_sales": 0,
+        "shop_id": 83955560,
+        "shop_name": "诗淇玩具优选",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 0,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3588686150392506729",
+        "product_id": "3588451058881561537",
+        "title": "磁性运笔画板儿童拼图磁力控笔训练专注力宝宝磁吸石绘画益智玩具",
+        "cover": {
+          "uri": "ecom-shop-material/JZrghvzK_m_8f3d547dc3e1f77be251c8505ec54293_sx_100109_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/JZrghvzK_m_8f3d547dc3e1f77be251c8505ec54293_sx_100109_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3588451058881561537",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 3980,
+        "market_price": 3980,
+        "cos_fee": 796,
+        "cos_ratio": 2000,
+        "month_sales": 9,
+        "shop_id": 67232496,
+        "shop_name": "艾尔乐母婴玩具店",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 9,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          },
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3579740403320139769",
+        "product_id": "3579738354620731938",
+        "title": "PS Board/磐写【旗舰版】液晶手写板儿童画画板写字板涂鸦绘画板",
+        "cover": {
+          "uri": "ecom-shop-material/fnMIFGhu_m_ca90ad7b8c706f992cb0625702d50b4f_sx_315497_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/fnMIFGhu_m_ca90ad7b8c706f992cb0625702d50b4f_sx_315497_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3579738354620731938",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 3380,
+        "market_price": 3680,
+        "cos_fee": 1014,
+        "cos_ratio": 3000,
+        "month_sales": 2,
+        "shop_id": 49594334,
+        "shop_name": "启顺企业店",
+        "exp_score": "4.7",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 2,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3618396991941398891",
+        "product_id": "3617663484466191949",
+        "title": " 8.5寸单色儿童画板液晶手写板绘画板涂鸦草稿练字小黑板玩具",
+        "cover": {
+          "uri": "ecom-shop-material/PDzfSazK_m_92c7487ab744e5aff1689e9ac70e2394_sx_131986_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/PDzfSazK_m_92c7487ab744e5aff1689e9ac70e2394_sx_131986_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3617663484466191949",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 999,
+        "market_price": 999,
+        "cos_fee": 20,
+        "cos_ratio": 200,
+        "month_sales": 5,
+        "shop_id": 92094072,
+        "shop_name": "超趣味",
+        "exp_score": "4.7",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 5,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "customer_protection",
+            "text": {
+              "text": "消费者保障服务"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3603300206273253786",
+        "product_id": "3603299899233422781",
+        "title": "画板儿童液晶手写板护眼无尘墨画画益智玩具写字板彩色涂鸦绘画板",
+        "cover": {
+          "uri": "ecom-shop-material/pZEfBlYg_m_989a3eb71d5d226627ad43f38f99f9a6_sx_283059_www750-750",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/pZEfBlYg_m_989a3eb71d5d226627ad43f38f99f9a6_sx_283059_www750-750"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3603299899233422781",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1170,
+        "market_price": 1690,
+        "cos_fee": 410,
+        "cos_ratio": 3500,
+        "month_sales": 3,
+        "activity": {
+          "activity_icon": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688190762&x-signature=HtfEPyPDRWUQjMoa5M%2FtULulYGg%3D",
+          "activity_type": 6,
+          "width": 24,
+          "height": 16
+        },
+        "shop_id": 81391398,
+        "shop_name": "益智手写板",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 3,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "ActivityInfo",
+            "pic": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688190762&x-signature=HtfEPyPDRWUQjMoa5M%2FtULulYGg%3D",
+            "height": 16,
+            "width": 24
+          },
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3592861601767793873",
+        "product_id": "3592861419097471528",
+        "title": "儿童涂鸦手写画板家用益智女男孩玩具护眼干净无尘绘画彩绘设计",
+        "cover": {
+          "uri": "ecom-shop-material/eyjmGWPA_m_0e987a04cc843fa72d66c894c5d950e1_sx_379680_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/eyjmGWPA_m_0e987a04cc843fa72d66c894c5d950e1_sx_379680_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3592861419097471528",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 2990,
+        "market_price": 2990,
+        "cos_fee": 449,
+        "cos_ratio": 1500,
+        "month_sales": 18,
+        "shop_id": 9977874,
+        "shop_name": "优象玩具专营店",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 18,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          },
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3602965085066238548",
+        "product_id": "3602961361245736635",
+        "title": "儿童画板家用幼儿磁性写字板一岁宝宝2涂鸦3磁力画画玩具画写板D1",
+        "cover": {
+          "uri": "ecom-shop-material/DRloWVqO_m_c0d0ac572cd75fe6513f564b1bf135cf_sx_165907_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/DRloWVqO_m_c0d0ac572cd75fe6513f564b1bf135cf_sx_165907_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3602961361245736635",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 9990,
+        "market_price": 9990,
+        "cos_fee": 100,
+        "cos_ratio": 100,
+        "month_sales": 0,
+        "shop_id": 83550624,
+        "shop_name": "铜锣好物体验店",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 0,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "customer_protection",
+            "text": {
+              "text": "消费者保障服务"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3567670642914528965",
+        "product_id": "3567137781312532833",
+        "title": "【拍1发2】智能口算机+液晶画板·PS Board/磐写儿童启蒙早教系列",
+        "cover": {
+          "uri": "ecom-shop-material/LCakDrPA_m_a454f9695e9b182c80040e5df1f19d33_sx_461085_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/LCakDrPA_m_a454f9695e9b182c80040e5df1f19d33_sx_461085_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3567137781312532833",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 3990,
+        "market_price": 3990,
+        "cos_fee": 798,
+        "cos_ratio": 2000,
+        "month_sales": 1,
+        "activity": {
+          "activity_icon": "https://lf3-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688190762&x-signature=Gt8Au8t52lH3hCslbccgFQC4WT0%3D",
+          "activity_type": 6,
+          "width": 24,
+          "height": 16
+        },
+        "shop_id": 53553029,
+        "shop_name": "四维商务专营店",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 1,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "ActivityInfo",
+            "pic": "https://lf3-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688190762&x-signature=Gt8Au8t52lH3hCslbccgFQC4WT0%3D",
+            "height": 16,
+            "width": 24
+          },
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3571933907077234401",
+        "product_id": "3571933069541815013",
+        "title": "画板大号儿童写字板无尘液晶手绘板玩具新可擦黑板墙家用黑板涂鸦",
+        "cover": {
+          "uri": "ecom-shop-material/ZffWqDYg_m_b0575487e6a88da3bcf58b2165ee3eba_sx_144959_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/ZffWqDYg_m_b0575487e6a88da3bcf58b2165ee3eba_sx_144959_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3571933069541815013",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 990,
+        "market_price": 990,
+        "cos_fee": 198,
+        "cos_ratio": 2000,
+        "month_sales": 11,
+        "activity": {
+          "activity_icon": "https://lf3-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688190762&x-signature=Gt8Au8t52lH3hCslbccgFQC4WT0%3D",
+          "activity_type": 6,
+          "width": 24,
+          "height": 16
+        },
+        "shop_id": 46592812,
+        "shop_name": "汇朗手写画板",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 11,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "ActivityInfo",
+            "pic": "https://lf3-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688190762&x-signature=Gt8Au8t52lH3hCslbccgFQC4WT0%3D",
+            "height": 16,
+            "width": 24
+          },
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3592919186407611582",
+        "product_id": "3592916572869667746",
+        "title": "PS Board/磐写儿童液晶手写板益智涂鸦绘画板15寸小黑板（专属）",
+        "cover": {
+          "uri": "ecom-shop-material/OrZrBbIP_m_bf97254a94b78b46083e76cb6593231e_sx_69511_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/OrZrBbIP_m_bf97254a94b78b46083e76cb6593231e_sx_69511_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3592916572869667746",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 8900,
+        "market_price": 8900,
+        "cos_fee": 2225,
+        "cos_ratio": 2500,
+        "month_sales": 4,
+        "shop_id": 58068194,
+        "shop_name": "PS Board磐写经纬专卖店",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 4,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3614796944507055392",
+        "product_id": "3590325874416815970",
+        "title": "儿童早教投影仪绘画板涂鸦写字板多功能大号鹿画板桌可擦益智玩具",
+        "cover": {
+          "uri": "ecom-shop-material/fIcyWXed_m_c887530eaff8bb8bca99126a199fe1e0_sx_126947_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/fIcyWXed_m_c887530eaff8bb8bca99126a199fe1e0_sx_126947_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3590325874416815970",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 2780,
+        "market_price": 7780,
+        "cos_fee": 1251,
+        "cos_ratio": 4500,
+        "month_sales": 3,
+        "shop_id": 37149309,
+        "shop_name": "比蒂严选商务商行个体店",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 3,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3544297173015515225",
+        "product_id": "3541708499564249052",
+        "title": "儿童液晶画板宝宝绘画板家用涂鸦草稿练字画画小黑板护眼益智玩具",
+        "cover": {
+          "uri": "ecom-shop-material/v1_OngtsSed_70834045979597212190529_fabb3506d5c75dc79dd0cfc610f5cd1f_sx_359042_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/v1_OngtsSed_70834045979597212190529_fabb3506d5c75dc79dd0cfc610f5cd1f_sx_359042_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3541708499564249052",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1490,
+        "market_price": 1490,
+        "cos_fee": 373,
+        "cos_ratio": 2500,
+        "month_sales": 48,
+        "shop_id": 12899529,
+        "shop_name": "盛世娇子母婴店",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 48,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": true,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3601499066632134937",
+        "product_id": "3601445718826572702",
+        "title": "儿童画写板磁性画板可擦除反复使用写字板玩具孩子学习板送磁性笔",
+        "cover": {
+          "uri": "ecom-shop-material/yhwKmoaL_m_726e6e783bcb4b6ef2f65b31fb95c7b6_sx_469281_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/yhwKmoaL_m_726e6e783bcb4b6ef2f65b31fb95c7b6_sx_469281_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3601445718826572702",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 800,
+        "market_price": 800,
+        "cos_fee": 120,
+        "cos_ratio": 1500,
+        "month_sales": 0,
+        "shop_id": 86704431,
+        "shop_name": "野云优选",
+        "exp_score": "4",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 0,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "text_product_tag": [
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3618881054234002340",
+        "product_id": "3609605047656286085",
+        "title": "螃蟹磁性运笔画板儿童磁力控笔绘画婴幼儿3岁2宝宝男女孩益智玩具",
+        "cover": {
+          "uri": "ecom-shop-material/IuDqEVqO_m_a09c9fbaac6edfac95a6c45f2d27e185_sx_500131_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/IuDqEVqO_m_a09c9fbaac6edfac95a6c45f2d27e185_sx_500131_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3609605047656286085",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 790,
+        "market_price": 3690,
+        "cos_fee": 40,
+        "cos_ratio": 500,
+        "month_sales": 10,
+        "shop_id": 28995905,
+        "shop_name": "玩趣益智玩具",
+        "exp_score": "4.6",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 10,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3606826022076581303",
+        "product_id": "3606094194235569808",
+        "title": "儿童手写板画板涂鸦板大号可擦磁性笔宝宝家用写字板一键消除玩具",
+        "cover": {
+          "uri": "ecom-shop-material/RMeAZsQb_m_adf348d1067b6d5f4d1525585b4c298e_sx_376262_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/RMeAZsQb_m_adf348d1067b6d5f4d1525585b4c298e_sx_376262_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3606094194235569808",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1490,
+        "market_price": 1490,
+        "cos_fee": 596,
+        "cos_ratio": 4000,
+        "month_sales": 2,
+        "shop_id": 16861855,
+        "shop_name": "趣萌益智玩具",
+        "exp_score": "4.4",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 2,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3597917209852288137",
+        "product_id": "3550757643427692949",
+        "title": "12寸液晶写字板儿童画板彩色手绘板液晶画板绘画板透明临摹手写板",
+        "cover": {
+          "uri": "ecom-shop-material/v1_jgCpbxMc_71015152195128527680695_a4a0421323d66459e3a139fa208f4139_sx_190022_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/v1_jgCpbxMc_71015152195128527680695_a4a0421323d66459e3a139fa208f4139_sx_190022_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3550757643427692949",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 6900,
+        "market_price": 6900,
+        "cos_fee": 1035,
+        "cos_ratio": 1500,
+        "month_sales": 0,
+        "shop_id": 25930695,
+        "shop_name": "艾尚写母婴玩具旗舰店",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 0,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3519434781878294539",
+        "product_id": "3514790201820102518",
+        "title": "儿童液晶手写板16寸充电款画板学习用品玩具宝宝小黑板家用学生",
+        "cover": {
+          "uri": "temai/0f7ae2ade15b35fb2d6d8375563096fd56e5ba45www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/temai/0f7ae2ade15b35fb2d6d8375563096fd56e5ba45www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3514790201820102518",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 5890,
+        "market_price": 5890,
+        "cos_fee": 1473,
+        "cos_ratio": 2500,
+        "month_sales": 5,
+        "shop_id": 25930695,
+        "shop_name": "艾尚写母婴玩具旗舰店",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 5,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3570087197849834214",
+        "product_id": "3570068334353496019",
+        "title": "PS Board/磐写田字格手写板练字手写板儿童液晶写字板练字小黑板",
+        "cover": {
+          "uri": "ecom-shop-material/fnMIFGhu_m_eccefb0e9420d82b94c9280521feadec_sx_307326_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/fnMIFGhu_m_eccefb0e9420d82b94c9280521feadec_sx_307326_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3570068334353496019",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 2394,
+        "market_price": 3990,
+        "cos_fee": 718,
+        "cos_ratio": 3000,
+        "month_sales": 1,
+        "shop_id": 49594334,
+        "shop_name": "启顺企业店",
+        "exp_score": "4.7",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 1,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          },
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3614280546974315211",
+        "product_id": "3614280470596047624",
+        "title": "磁性运笔画板儿童磁力控笔3岁2小孩幼儿宝宝磁石绘画女孩益智玩具",
+        "cover": {
+          "uri": "ecom-shop-material/SYubCrl_m_75d0a9b316043dd6e0b2e5e5509eb665_sx_368434_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/SYubCrl_m_75d0a9b316043dd6e0b2e5e5509eb665_sx_368434_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3614280470596047624",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 2980,
+        "market_price": 2980,
+        "cos_fee": 745,
+        "cos_ratio": 2500,
+        "month_sales": 2,
+        "shop_id": 2189626,
+        "shop_name": "飞马玩具",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 2,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3618317507154309850",
+        "product_id": "3612242867042557064",
+        "title": "8.5寸液晶功能画画手写板涂鸦绘画板儿童家用护眼小黑板学习用品",
+        "cover": {
+          "uri": "ecom-shop-material/QPwzmtqO_m_893ecccab2c2792f5a0a5c51534956f0_sx_56361_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/QPwzmtqO_m_893ecccab2c2792f5a0a5c51534956f0_sx_56361_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3612242867042557064",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1390,
+        "market_price": 1390,
+        "cos_fee": 14,
+        "cos_ratio": 100,
+        "month_sales": 674,
+        "shop_id": 42892476,
+        "shop_name": "悦城优品",
+        "exp_score": "4.7",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 674,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "customer_protection",
+            "text": {
+              "text": "消费者保障服务"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3602730373475376655",
+        "product_id": "3601801898392451124",
+        "title": "儿童画画板小黑板家用学生支架式写字板黑板墙贴可擦板",
+        "cover": {
+          "uri": "ecom-shop-material/obwFMTdZ_m_75c14de9652b7fb0f5c51e9d81ebcecf_sx_110314_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/obwFMTdZ_m_75c14de9652b7fb0f5c51e9d81ebcecf_sx_110314_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3601801898392451124",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1440,
+        "market_price": 2400,
+        "cos_fee": 288,
+        "cos_ratio": 2000,
+        "month_sales": 4,
+        "shop_id": 26043152,
+        "shop_name": "雄大益智学习用品",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 4,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3566570590196362516",
+        "product_id": "3566570330367640044",
+        "title": "PS Board/磐写磐写儿童液晶手写板幼儿益智玩具 宝宝绘画板写字",
+        "cover": {
+          "uri": "ecom-shop-material/LCakDrPA_m_e3574c57f50297c83f29e403d55a2c84_sx_284376_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/LCakDrPA_m_e3574c57f50297c83f29e403d55a2c84_sx_284376_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3566570330367640044",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 2394,
+        "market_price": 5980,
+        "cos_fee": 718,
+        "cos_ratio": 3000,
+        "month_sales": 3,
+        "shop_id": 53553029,
+        "shop_name": "四维商务专营店",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 3,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3586418637399030017",
+        "product_id": "3578635782677728327",
+        "title": "儿童画板磁性画画板玩具家用涂鸦板宝宝写字板磁力彩色绘画架画桌",
+        "cover": {
+          "uri": "ecom-shop-material/BaxTcmUJ_m_490bf2e22b4f0cc70aa269cb549d5ec8_sx_381385_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/BaxTcmUJ_m_490bf2e22b4f0cc70aa269cb549d5ec8_sx_381385_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3578635782677728327",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 864,
+        "market_price": 2748,
+        "cos_fee": 173,
+        "cos_ratio": 2000,
+        "month_sales": 42,
+        "shop_id": 39068867,
+        "shop_name": "米迪酷玩玩具",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 42,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3608270934143819737",
+        "product_id": "3600691733115087647",
+        "title": "PS Board/磐写儿童液晶手写板 益智玩具绘画板涂鸦画画小黑板彩色",
+        "cover": {
+          "uri": "ecom-shop-material/OrZrBbIP_m_c3033fe785417de52c6cc305831e191c_sx_536184_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/OrZrBbIP_m_c3033fe785417de52c6cc305831e191c_sx_536184_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3600691733115087647",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 2394,
+        "market_price": 3990,
+        "cos_fee": 718,
+        "cos_ratio": 3000,
+        "month_sales": 1,
+        "shop_id": 58068194,
+        "shop_name": "PS Board磐写经纬专卖店",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 1,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3600746895460459872",
+        "product_id": "3600746073016118970",
+        "title": "【9.9元】8.5寸单色液晶手写板儿童写字涂鸦画板护眼屏无油草稿纸",
+        "cover": {
+          "uri": "ecom-shop-material/cHCtJXhu_m_0bf2da260f436e6358e712f99a608845_sx_348659_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/cHCtJXhu_m_0bf2da260f436e6358e712f99a608845_sx_348659_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3600746073016118970",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 990,
+        "market_price": 990,
+        "cos_fee": 50,
+        "cos_ratio": 500,
+        "month_sales": 1782,
+        "shop_id": 80937628,
+        "shop_name": "点博士DBS",
+        "exp_score": "4.6",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 1782,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "leaderboard_info": {
+          "category_id": 151820,
+          "category_name": "儿童画板",
+          "tab_id": 2,
+          "rank": 13,
+          "type": 2,
+          "rank_text": "入选儿童画板爆款榜",
+          "billboard_type": 0
+        },
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          },
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3597593128825176246",
+        "product_id": "3597557081189817669",
+        "title": "磁性运笔画板儿童家用磁石磁力珠宝宝益智玩具男女孩3岁小孩2幼儿",
+        "cover": {
+          "uri": "ecom-shop-material/znxMAINE_m_9b6bce00409178bad315dca5a01ed24d_sx_486637_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/znxMAINE_m_9b6bce00409178bad315dca5a01ed24d_sx_486637_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3597557081189817669",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 3990,
+        "market_price": 3990,
+        "cos_fee": 1197,
+        "cos_ratio": 3000,
+        "month_sales": 67,
+        "shop_id": 15902573,
+        "shop_name": "卡尔贝比母婴玩具旗舰店",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 67,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "customer_protection",
+            "text": {
+              "text": "消费者保障服务"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3615374728539277685",
+        "product_id": "3615320472406887229",
+        "title": "兔子磁性运笔画板儿童专注力训练吸磁力棋盘拼图早教启蒙磁性画板",
+        "cover": {
+          "uri": "ecom-shop-material/JRTRyfSC_m_1d5880b125175c99a2c4cea967f34157_sx_258024_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/JRTRyfSC_m_1d5880b125175c99a2c4cea967f34157_sx_258024_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3615320472406887229",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 2790,
+        "market_price": 4390,
+        "cos_fee": 140,
+        "cos_ratio": 500,
+        "month_sales": 29,
+        "activity": {
+          "activity_icon": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688190762&x-signature=HtfEPyPDRWUQjMoa5M%2FtULulYGg%3D",
+          "activity_type": 6,
+          "width": 24,
+          "height": 16
+        },
+        "shop_id": 94036594,
+        "shop_name": "铭发玩具商贸",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 29,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "ActivityInfo",
+            "pic": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688190762&x-signature=HtfEPyPDRWUQjMoa5M%2FtULulYGg%3D",
+            "height": 16,
+            "width": 24
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3618830094396727978",
+        "product_id": "3616616141658691081",
+        "title": "【六一儿童礼物】磐写画板儿童绘画板彩色涂鸦家里画画桌面写字",
+        "cover": {
+          "uri": "ecom-shop-material/zKxECMa_m_820ee73e73dbb3e2378361c1c15e7031_sx_549488_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/zKxECMa_m_820ee73e73dbb3e2378361c1c15e7031_sx_549488_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3616616141658691081",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1794,
+        "market_price": 1794,
+        "cos_fee": 538,
+        "cos_ratio": 3000,
+        "month_sales": 4,
+        "shop_id": 3446322,
+        "shop_name": "磐写旗舰店",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 4,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          },
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3566535626897666983",
+        "product_id": "3566534415825919356",
+        "title": "PS Board/磐写旗舰版液晶手写板儿童画板 益智涂鸦绘画彩色手绘",
+        "cover": {
+          "uri": "ecom-shop-material/zKxECMa_m_211e3b145be447af244d41de77d7f50f_sx_215751_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/zKxECMa_m_211e3b145be447af244d41de77d7f50f_sx_215751_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3566534415825919356",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 3680,
+        "market_price": 6980,
+        "cos_fee": 1104,
+        "cos_ratio": 3000,
+        "month_sales": 332,
+        "shop_id": 3446322,
+        "shop_name": "磐写旗舰店",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 332,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          },
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3583061216047808459",
+        "product_id": "3580105344426362567",
+        "title": "PS Board/磐写【拍一发二】15/19寸液晶手写板小黑板+8.5寸彩色屏",
+        "cover": {
+          "uri": "ecom-shop-material/OrZrBbIP_m_55ea16a083c6b92f068304141ce8037b_sx_104256_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/OrZrBbIP_m_55ea16a083c6b92f068304141ce8037b_sx_104256_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3580105344426362567",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 7900,
+        "market_price": 8900,
+        "cos_fee": 1580,
+        "cos_ratio": 2000,
+        "month_sales": 13,
+        "activity": {
+          "activity_icon": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688190762&x-signature=HtfEPyPDRWUQjMoa5M%2FtULulYGg%3D",
+          "activity_type": 6,
+          "width": 24,
+          "height": 16
+        },
+        "shop_id": 58068194,
+        "shop_name": "PS Board磐写经纬专卖店",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 13,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "ActivityInfo",
+            "pic": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688190762&x-signature=HtfEPyPDRWUQjMoa5M%2FtULulYGg%3D",
+            "height": 16,
+            "width": 24
+          },
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3527232015361533971",
+        "product_id": "3527231135371419405",
+        "title": "PS Board/磐写猫咪手写板 儿童液晶画板益智涂鸦可擦写玩具学生",
+        "cover": {
+          "uri": "ecom-shop-material/zKxECMa_m_7e8e19b1e0494264c949330387bd9542_sx_487232_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/zKxECMa_m_7e8e19b1e0494264c949330387bd9542_sx_487232_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3527231135371419405",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1490,
+        "market_price": 2980,
+        "cos_fee": 447,
+        "cos_ratio": 3000,
+        "month_sales": 249,
+        "activity": {
+          "activity_icon": "https://lf3-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688190762&x-signature=Gt8Au8t52lH3hCslbccgFQC4WT0%3D",
+          "activity_type": 6,
+          "width": 24,
+          "height": 16
+        },
+        "shop_id": 3446322,
+        "shop_name": "磐写旗舰店",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 249,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": true,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "ActivityInfo",
+            "pic": "https://lf3-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688190762&x-signature=Gt8Au8t52lH3hCslbccgFQC4WT0%3D",
+            "height": 16,
+            "width": 24
+          },
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3610953086450953954",
+        "product_id": "3610907305387906870",
+        "title": "大尺寸儿童画板液晶手写板益智玩具无尘墨涂鸦画画流畅耐摔绘画板",
+        "cover": {
+          "uri": "ecom-shop-material/pZEfBlYg_m_6af6042ed94fca4e8f6897ad80632f4a_sx_223595_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/pZEfBlYg_m_6af6042ed94fca4e8f6897ad80632f4a_sx_223595_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3610907305387906870",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1037,
+        "market_price": 2990,
+        "cos_fee": 415,
+        "cos_ratio": 4000,
+        "month_sales": 1,
+        "activity": {
+          "activity_icon": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688190762&x-signature=HtfEPyPDRWUQjMoa5M%2FtULulYGg%3D",
+          "activity_type": 6,
+          "width": 24,
+          "height": 16
+        },
+        "shop_id": 81391398,
+        "shop_name": "益智手写板",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 1,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "ActivityInfo",
+            "pic": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688190762&x-signature=HtfEPyPDRWUQjMoa5M%2FtULulYGg%3D",
+            "height": 16,
+            "width": 24
+          },
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3582946272161752866",
+        "product_id": "3582736568236033680",
+        "title": "PS Board/磐写【拍1发2】画板儿童液晶手写板彩色涂鸦板益智玩具",
+        "cover": {
+          "uri": "ecom-shop-material/fnMIFGhu_m_2aa576b2f74e44ee69f8805cbe01f967_sx_608430_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/fnMIFGhu_m_2aa576b2f74e44ee69f8805cbe01f967_sx_608430_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3582736568236033680",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 3990,
+        "market_price": 7990,
+        "cos_fee": 1397,
+        "cos_ratio": 3500,
+        "month_sales": 24,
+        "shop_id": 49594334,
+        "shop_name": "启顺企业店",
+        "exp_score": "4.7",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 24,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          },
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3568042121237805940",
+        "product_id": "3565665984184503830",
+        "title": "艾尚写8.5寸单色液晶写字板手写板儿童画板ins涂鸦画画彩色绘画",
+        "cover": {
+          "uri": "ecom-shop-material/jgCpbxMc_m_7a7cf699a972c8603afd4d89f9d923f6_sx_85273_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/jgCpbxMc_m_7a7cf699a972c8603afd4d89f9d923f6_sx_85273_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3565665984184503830",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 990,
+        "market_price": 990,
+        "cos_fee": 10,
+        "cos_ratio": 100,
+        "month_sales": 77,
+        "shop_id": 25930695,
+        "shop_name": "艾尚写母婴玩具旗舰店",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 77,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3619613732629572260",
+        "product_id": "3617445437474228033",
+        "title": "儿童画板家用幼儿磁性写字板一岁宝宝2涂鸦3磁力画画玩具画写板大",
+        "cover": {
+          "uri": "ecom-shop-material/CuIiuPHT_m_ebe166c0118542b08894ad8943f0284f_sx_104525_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/CuIiuPHT_m_ebe166c0118542b08894ad8943f0284f_sx_104525_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3617445437474228033",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 2443,
+        "market_price": 7960,
+        "cos_fee": 122,
+        "cos_ratio": 500,
+        "month_sales": 0,
+        "shop_id": 92339864,
+        "shop_name": "翼涵家居生活旗舰店",
+        "exp_score": "4.6",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 0,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3616307060779661248",
+        "product_id": "3616306987765266572",
+        "title": "儿童宝宝小鹿投影画板灯光画画临摹涂鸦绘画板可擦写字板早教玩具",
+        "cover": {
+          "uri": "ecom-shop-material/nwaSNdqt_m_d20f6e60a971fb3884b07b571051e163_sx_62890_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/nwaSNdqt_m_d20f6e60a971fb3884b07b571051e163_sx_62890_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3616306987765266572",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1680,
+        "market_price": 1680,
+        "cos_fee": 168,
+        "cos_ratio": 1000,
+        "month_sales": 59,
+        "shop_id": 91768349,
+        "shop_name": "蜡蛋趣玩玩具",
+        "exp_score": "4.5",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 59,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3567266750632465512",
+        "product_id": "3567250320327319639",
+        "title": "PS Board/磐写【拍1发2】益智玩具写字板彩色液晶画板儿童练口算",
+        "cover": {
+          "uri": "ecom-shop-material/zKxECMa_m_49764c4dfca15f8ed87da524285f2140_sx_396683_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/zKxECMa_m_49764c4dfca15f8ed87da524285f2140_sx_396683_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3567250320327319639",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 3990,
+        "market_price": 3990,
+        "cos_fee": 998,
+        "cos_ratio": 2500,
+        "month_sales": 24,
+        "activity": {
+          "activity_icon": "https://lf3-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688190762&x-signature=Gt8Au8t52lH3hCslbccgFQC4WT0%3D",
+          "activity_type": 6,
+          "width": 24,
+          "height": 16
+        },
+        "shop_id": 3446322,
+        "shop_name": "磐写旗舰店",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 24,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "ActivityInfo",
+            "pic": "https://lf3-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688190762&x-signature=Gt8Au8t52lH3hCslbccgFQC4WT0%3D",
+            "height": 16,
+            "width": 24
+          },
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3610713130688186027",
+        "product_id": "3610563275185597589",
+        "title": "儿童画板液晶手写板黑板贴墙贴家用可擦写益智玩具写字板儿童玩具",
+        "cover": {
+          "uri": "ecom-shop-material/BKQYqFMM_m_cc3865102baa209730b6e4a19da1b96c_sx_81629_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/BKQYqFMM_m_cc3865102baa209730b6e4a19da1b96c_sx_81629_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3610563275185597589",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 966,
+        "market_price": 966,
+        "cos_fee": 97,
+        "cos_ratio": 1000,
+        "month_sales": 2278,
+        "shop_id": 94829522,
+        "shop_name": "佳途JIATU文具旗舰店",
+        "exp_score": "4.6",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 2278,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "2",
+            "text": {
+              "text": "直播引流品"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3529226611536857685",
+        "product_id": "3529099804774914646",
+        "title": "涂鸦【儿童磁性小白板】双面磁性小白板可擦写绘画板玩具不含支架",
+        "cover": {
+          "uri": "temai/bc20ebf7f3b69784a63be0698156160awww800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/temai/bc20ebf7f3b69784a63be0698156160awww800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3529099804774914646",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1800,
+        "market_price": 1800,
+        "cos_fee": 540,
+        "cos_ratio": 3000,
+        "month_sales": 129,
+        "shop_id": 23390367,
+        "shop_name": "幸福种子文化",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 129,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": true,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          },
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "customer_protection",
+            "text": {
+              "text": "消费者保障服务"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3607554776239308899",
+        "product_id": "3607530817821244346",
+        "title": "儿童磁性写字板画板婴幼儿家用画画板男女宝宝涂鸦可擦手写板玩具",
+        "cover": {
+          "uri": "ecom-shop-material/mzLWlrZh_m_7f7c77efe2cc9f4b3830a77259313b62_sx_475219_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/mzLWlrZh_m_7f7c77efe2cc9f4b3830a77259313b62_sx_475219_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3607530817821244346",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 5990,
+        "market_price": 5990,
+        "cos_fee": 1198,
+        "cos_ratio": 2000,
+        "month_sales": 62,
+        "activity": {
+          "activity_icon": "https://lf3-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688190762&x-signature=Gt8Au8t52lH3hCslbccgFQC4WT0%3D",
+          "activity_type": 6,
+          "width": 24,
+          "height": 16
+        },
+        "shop_id": 24176166,
+        "shop_name": "皇儿母婴玩具旗舰店",
+        "exp_score": "4.2",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 62,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "ActivityInfo",
+            "pic": "https://lf3-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688190762&x-signature=Gt8Au8t52lH3hCslbccgFQC4WT0%3D",
+            "height": 16,
+            "width": 24
+          },
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3572685835583280016",
+        "product_id": "3572500930807113720",
+        "title": "PS Board/磐写早教直通车卡片机益智有声听读+儿童液晶绘画板彩色",
+        "cover": {
+          "uri": "ecom-shop-material/zKxECMa_m_acba1e120a3bb89c35f4c9f0ba4edc3f_sx_573474_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/zKxECMa_m_acba1e120a3bb89c35f4c9f0ba4edc3f_sx_573474_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3572500930807113720",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 3990,
+        "market_price": 8990,
+        "cos_fee": 998,
+        "cos_ratio": 2500,
+        "month_sales": 108,
+        "activity": {
+          "activity_icon": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688190762&x-signature=HtfEPyPDRWUQjMoa5M%2FtULulYGg%3D",
+          "activity_type": 6,
+          "width": 24,
+          "height": 16
+        },
+        "shop_id": 3446322,
+        "shop_name": "磐写旗舰店",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 108,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "ActivityInfo",
+            "pic": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688190762&x-signature=HtfEPyPDRWUQjMoa5M%2FtULulYGg%3D",
+            "height": 16,
+            "width": 24
+          },
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3604591743800063083",
+        "product_id": "3604048113658128040",
+        "title": "PS Board/磐写画板儿童液晶手写板1-3岁涂鸦板益智玩具彩色绘画板",
+        "cover": {
+          "uri": "ecom-shop-material/fnMIFGhu_m_f0733aeb083c719d855a8e534ec0968a_sx_131270_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/fnMIFGhu_m_f0733aeb083c719d855a8e534ec0968a_sx_131270_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3604048113658128040",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1794,
+        "market_price": 2990,
+        "cos_fee": 538,
+        "cos_ratio": 3000,
+        "month_sales": 1,
+        "shop_id": 49594334,
+        "shop_name": "启顺企业店",
+        "exp_score": "4.7",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 1,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          },
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3608714424707333442",
+        "product_id": "3608670776288487360",
+        "title": "兔子磁性运笔画板宝宝早教益智磁力珠儿童趣味锻炼玩具孩子磁吸板",
+        "cover": {
+          "uri": "ecom-shop-material/koqLexKF_m_f3e4d42e0ce37625abe69d2c006e8b00_sx_241792_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/koqLexKF_m_f3e4d42e0ce37625abe69d2c006e8b00_sx_241792_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3608670776288487360",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 2980,
+        "market_price": 2980,
+        "cos_fee": 805,
+        "cos_ratio": 2700,
+        "month_sales": 704,
+        "shop_id": 85795899,
+        "shop_name": "佳顺鑫家居馆",
+        "exp_score": "4.2",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 704,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "customer_protection",
+            "text": {
+              "text": "消费者保障服务"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3577660219662152341",
+        "product_id": "3576981086548404853",
+        "title": "PS Board/磐写【拍一发二】15/19寸液晶手写板小黑板+8.5寸彩色屏",
+        "cover": {
+          "uri": "ecom-shop-material/fnMIFGhu_m_7ccf7c1c565224cdb3261a359506f0d7_sx_129079_www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/fnMIFGhu_m_7ccf7c1c565224cdb3261a359506f0d7_sx_129079_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3576981086548404853",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 7900,
+        "market_price": 8900,
+        "cos_fee": 2765,
+        "cos_ratio": 3500,
+        "month_sales": 5,
+        "shop_id": 49594334,
+        "shop_name": "启顺企业店",
+        "exp_score": "4.7",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 5,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3607414095667707653",
+        "product_id": "3605541647766715170",
+        "title": "儿童磁性画板彩色涂鸦板婴幼儿宝宝可擦写字板家用1-3岁2女孩玩具",
+        "cover": {
+          "uri": "ecom-shop-material/KIbyhFEy_m_47bd94992ce44abcdaca5b6a28ce76d6_sx_154900_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/KIbyhFEy_m_47bd94992ce44abcdaca5b6a28ce76d6_sx_154900_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3605541647766715170",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 190,
+        "market_price": 790,
+        "cos_fee": 10,
+        "cos_ratio": 500,
+        "month_sales": 332,
+        "shop_id": 10653793,
+        "shop_name": "幸多多玩具",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 332,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "customer_protection",
+            "text": {
+              "text": "消费者保障服务"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3563615032040396182",
+        "product_id": "3563583917074311637",
+        "title": "PS Board/磐写磐写益智涂鸦儿童液晶手写画板 卡通独角兽8.5寸",
+        "cover": {
+          "uri": "ecom-shop-material/LCakDrPA_m_aca81d1f3c588ee2c1d63729f7cc8958_sx_411916_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/LCakDrPA_m_aca81d1f3c588ee2c1d63729f7cc8958_sx_411916_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3563583917074311637",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 4800,
+        "market_price": 4800,
+        "cos_fee": 960,
+        "cos_ratio": 2000,
+        "month_sales": 0,
+        "shop_id": 53553029,
+        "shop_name": "四维商务专营店",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 0,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3611546183929093453",
+        "product_id": "3611532604005851408",
+        "title": "儿童绘画板6.5/8.5/10/12/16寸彩色液晶写字涂鸦手绘板学习手写板",
+        "cover": {
+          "uri": "ecom-shop-material/hfcrmyNI_m_811bdfea709180977abe7af0c584078d_sx_162278_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/hfcrmyNI_m_811bdfea709180977abe7af0c584078d_sx_162278_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3611532604005851408",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 840,
+        "market_price": 1500,
+        "cos_fee": 101,
+        "cos_ratio": 1200,
+        "month_sales": 39,
+        "shop_id": 73274981,
+        "shop_name": "明褡供应商行",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 39,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3578609512602558043",
+        "product_id": "3572301427420338613",
+        "title": "PS Board/磐写磐写益智涂鸦儿童已经手写画板 卡通独角兽8.5寸",
+        "cover": {
+          "uri": "ecom-shop-material/OrZrBbIP_m_51aab2d6a851424c0187cfe4b6b6edfe_sx_304563_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/OrZrBbIP_m_51aab2d6a851424c0187cfe4b6b6edfe_sx_304563_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3572301427420338613",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 4800,
+        "market_price": 4800,
+        "cos_fee": 1440,
+        "cos_ratio": 3000,
+        "month_sales": 0,
+        "shop_id": 58068194,
+        "shop_name": "PS Board磐写经纬专卖店",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 0,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3593785442656455680",
+        "product_id": "3591197806473383282",
+        "title": "1磁性运笔画板儿童家用磁石磁力珠宝宝益智玩具男女孩3岁小孩幼儿",
+        "cover": {
+          "uri": "ecom-shop-material/znxMAINE_m_9b6bce00409178bad315dca5a01ed24d_sx_486637_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/znxMAINE_m_9b6bce00409178bad315dca5a01ed24d_sx_486637_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3591197806473383282",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 3990,
+        "market_price": 3990,
+        "cos_fee": 998,
+        "cos_ratio": 2500,
+        "month_sales": 6,
+        "shop_id": 15902573,
+        "shop_name": "卡尔贝比母婴玩具旗舰店",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 6,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "customer_protection",
+            "text": {
+              "text": "消费者保障服务"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3563615031964884752",
+        "product_id": "3563589236458427030",
+        "title": "PS Board/磐写磐写临摹液晶手写板透明涂鸦板儿童画板绘画写字板",
+        "cover": {
+          "uri": "ecom-shop-material/LCakDrPA_m_d85794784f2b3bf48f35ae6160c29b00_sx_476162_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/LCakDrPA_m_d85794784f2b3bf48f35ae6160c29b00_sx_476162_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3563589236458427030",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 4800,
+        "market_price": 4800,
+        "cos_fee": 1440,
+        "cos_ratio": 3000,
+        "month_sales": 1,
+        "shop_id": 53553029,
+        "shop_name": "四维商务专营店",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 1,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3508842204724646984",
+        "product_id": "3508804033337027984",
+        "title": "艾尚写液晶手写板儿童写字板家用小黑板玩具画画板学习用品托管",
+        "cover": {
+          "uri": "temai/e6f755bd2c012c9d810e554de6a41f00www800-800",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/temai/e6f755bd2c012c9d810e554de6a41f00www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3508804033337027984",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 2070,
+        "market_price": 2070,
+        "cos_fee": 455,
+        "cos_ratio": 2200,
+        "month_sales": 5,
+        "shop_id": 25930695,
+        "shop_name": "艾尚写母婴玩具旗舰店",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 5,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": true,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3531314843955114167",
+        "product_id": "3531313282742912804",
+        "title": "PS Board/磐写儿童液晶写字板学习用品小黑板学生手写板写字练字",
+        "cover": {
+          "uri": "ecom-shop-material/zKxECMa_m_f7e9b196c173590f1ac8c2434971fa01_sx_300213_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/zKxECMa_m_f7e9b196c173590f1ac8c2434971fa01_sx_300213_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3531313282742912804",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 2394,
+        "market_price": 3990,
+        "cos_fee": 718,
+        "cos_ratio": 3000,
+        "month_sales": 137,
+        "activity": {
+          "activity_icon": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688190762&x-signature=HtfEPyPDRWUQjMoa5M%2FtULulYGg%3D",
+          "activity_type": 6,
+          "width": 24,
+          "height": 16
+        },
+        "shop_id": 3446322,
+        "shop_name": "磐写旗舰店",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 137,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": true,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "ActivityInfo",
+            "pic": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688190762&x-signature=HtfEPyPDRWUQjMoa5M%2FtULulYGg%3D",
+            "height": 16,
+            "width": 24
+          },
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3556881358548825705",
+        "product_id": "3556540443397361828",
+        "title": "画板大号儿童写字板液晶手绘板画画板玩具可擦黑板墙家用黑板涂鸦",
+        "cover": {
+          "uri": "ecom-shop-material/ZffWqDYg_m_626dc7e3fa5162a12885ed8c9902b17c_sx_155476_www833-833",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/ZffWqDYg_m_626dc7e3fa5162a12885ed8c9902b17c_sx_155476_www833-833"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3556540443397361828",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 490,
+        "market_price": 2990,
+        "cos_fee": 25,
+        "cos_ratio": 500,
+        "month_sales": 1387,
+        "shop_id": 46592812,
+        "shop_name": "汇朗手写画板",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 1387,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "2",
+            "text": {
+              "text": "直播引流品"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3602535783766039709",
+        "product_id": "3602533432254669627",
+        "title": "【天天涂画】画板大号儿童写字板液晶手绘板画画板玩具可擦黑板墙",
+        "cover": {
+          "uri": "ecom-shop-material/ZffWqDYg_m_24b4b86737eb9fdc77863ffe05f40ebb_sx_193029_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/ZffWqDYg_m_24b4b86737eb9fdc77863ffe05f40ebb_sx_193029_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3602533432254669627",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p6-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 2200,
+        "market_price": 2490,
+        "cos_fee": 726,
+        "cos_ratio": 3300,
+        "month_sales": 1,
+        "activity": {
+          "activity_icon": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688190762&x-signature=HtfEPyPDRWUQjMoa5M%2FtULulYGg%3D",
+          "activity_type": 6,
+          "width": 24,
+          "height": 16
+        },
+        "shop_id": 46592812,
+        "shop_name": "汇朗手写画板",
+        "exp_score": "4.8",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 1,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "ActivityInfo",
+            "pic": "https://lf26-cm-sign.ecombdstatic.com/cmp-ecom-alliance/ab_9a0176d8d0e914890090d4aa9fa0a799?x-expires=1688190762&x-signature=HtfEPyPDRWUQjMoa5M%2FtULulYGg%3D",
+            "height": 16,
+            "width": 24
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3604765810016544710",
+        "product_id": "3604602136522060640",
+        "title": "儿童益智学习板手画板涂鸦板无蓝光不脏手玩具高清炫彩绘写字彩色",
+        "cover": {
+          "uri": "ecom-shop-material/pZEfBlYg_m_5d924cc48edb5b13cb0556112d68e52c_sx_122342_www750-750",
+          "url_list": [
+            "https://lf26-cm.ecombdstatic.com/obj/ecom-shop-material/pZEfBlYg_m_5d924cc48edb5b13cb0556112d68e52c_sx_122342_www750-750"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3604602136522060640",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 1590,
+        "market_price": 2690,
+        "cos_fee": 557,
+        "cos_ratio": 3500,
+        "month_sales": 10,
+        "shop_id": 81391398,
+        "shop_name": "益智手写板",
+        "exp_score": "4.9",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 10,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3572714605446837166",
+        "product_id": "3570073771765281721",
+        "title": "PS Board/磐写【旗舰版】液晶手写板儿童绘画板 益智涂鸦板写字板",
+        "cover": {
+          "uri": "ecom-shop-material/fnMIFGhu_m_a6e437a5088de18935faf443e5512180_sx_272638_www800-800",
+          "url_list": [
+            "https://lf6-cm.ecombdstatic.com/obj/ecom-shop-material/fnMIFGhu_m_a6e437a5088de18935faf443e5512180_sx_272638_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3570073771765281721",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p9-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 2980,
+        "market_price": 3380,
+        "cos_fee": 894,
+        "cos_ratio": 3000,
+        "month_sales": 7,
+        "shop_id": 49594334,
+        "shop_name": "启顺企业店",
+        "exp_score": "4.7",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 7,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          },
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      },
+      {
+        "promotion_id": "3572714605446837168",
+        "product_id": "3571930683687476060",
+        "title": "PS Board/磐写早教卡片机直通车益智有声听读+儿童液晶绘画板彩色",
+        "cover": {
+          "uri": "ecom-shop-material/fnMIFGhu_m_fb1f1cc671bd41ed17799c475ae5dc0d_sx_485458_www800-800",
+          "url_list": [
+            "https://lf3-cm.ecombdstatic.com/obj/ecom-shop-material/fnMIFGhu_m_fb1f1cc671bd41ed17799c475ae5dc0d_sx_485458_www800-800"
+          ]
+        },
+        "detail_url": "https://haohuo.jinritemai.com/views/product/item2?id=3571930683687476060",
+        "promotion_source": 4,
+        "brand_icon": {
+          "url_list": [
+            "https://p3-aio.ecombdimg.com/origin/db00001bcc4cfde8d96a"
+          ]
+        },
+        "price": 3990,
+        "market_price": 8990,
+        "cos_fee": 998,
+        "cos_ratio": 2500,
+        "month_sales": 1,
+        "shop_id": 49594334,
+        "shop_name": "启顺企业店",
+        "exp_score": "4.7",
+        "in_promotion": true,
+        "in_shop": false,
+        "sales": 1,
+        "privilege_info": {
+          "privilege_id": 0,
+          "privilege_info_detail": null
+        },
+        "is_product_distribution": false,
+        "cos_ratio_type": 0,
+        "douyin_goods_info": {
+          "tag_id": 0
+        },
+        "no_worry_info": {
+          "tag_id": 0
+        },
+        "tag_list": [
+          {
+            "type": 3,
+            "title": "发货保障"
+          },
+          {
+            "type": 5,
+            "title": "买样返款"
+          }
+        ],
+        "pic_product_tag": [
+          {
+            "type": "douingoodv2",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/cmp-ecom-alliance/product_tag/douyin_goods.png"
+          },
+          {
+            "type": "anxingou",
+            "pic": "https://lf6-cm.ecombdstatic.com/obj/temai/buy_at_ease_v1.png"
+          }
+        ],
+        "text_product_tag": [
+          {
+            "type": "SampleRebate",
+            "text": {
+              "text": "买样返款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "insurance_freight",
+            "text": {
+              "text": "运费险"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "refund_speed",
+            "text": {
+              "text": "极速退款"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          },
+          {
+            "type": "FreightFree",
+            "text": {
+              "text": "包邮"
+            },
+            "border_color": "rgba(255, 112, 29, 0.34)"
+          }
+        ],
+        "market_cos_ratio": 0,
+        "has_same_type": false,
+        "in_cart": false
+      }
+    ],
+    "has_more": true,
+    "search_id": "7239558150914244922",
+    "rec_has_more": false,
+    "session_id": "session7239591504543580455"
+  },
+  "total": 500,
+  "log_id": "2023060113524233081B134E17910D33F3",
+  "rec_total": 0
+}
